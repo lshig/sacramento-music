@@ -1,0 +1,7 @@
+*.DS_Store
+.DS_Store
+/bower_components
+/node_modules
+/src/client/app/styles/fonts/*
+/src/client/dist/bundle.js.map
+/src/server/*
