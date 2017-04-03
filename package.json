@@ -1,11 +1,10 @@
 {
   "name": "sacramento-music",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "bundle.js",
   "dependencies": {
     "highcharts": "*",
-    "materialize-css": "*",
     "react": "*",
     "react-dom": "*",
     "react-highcharts": "*"
@@ -15,11 +14,16 @@
     "babel-loader": "*",
     "babel-preset-es2015": "*",
     "babel-preset-react": "*",
-    "webpack": "*"
+    "html-webpack-plugin": "*",
+    "uglifyjs-webpack-plugin": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*"
   },
   "scripts": {
-    "start": "npm install && bower install",
-    "bundle": "./node_modules/.bin/webpack -d --watch"
+    "start": "npm install",
+    "build:dev": "webpack",
+    "build:prod": "webpack -p --env production",
+    "server": "webpack-dev-server"
   },
   "author": "Liz Shigetoshi"
 }

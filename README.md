@@ -11,14 +11,14 @@ A way for me to express my love for Sacramento, CA, music, and code. This is als
 - Install [SASS](http://sass-lang.com/) configured to an editor like [Atom](https://atom.io/)
 - Clone or fork the repository `https://github.com/lshig/sacramento-music.git`
 - In the terminal: `cd sacramento-music; npm start`
-- Build and compile: `npm run bundle`
-- View by opening `index.html` in a web browser
+- Build `npm run build:dev` for debugging
+- Build `npm run build:prod` for production-ish
+- Option 1: View by opening `index.html` in a web browser
+- Option 2: `npm run server` and open `http://localhost:8080/`
 
 ## TODO
-- AUTOMATE ALL CALCULATIONS
-- clean up and document SASS
-- add documentation in README
-- make page accessible
+- add events to demonstrate React + Redux
+- make page more accessible
 - build better web scrapper, AUTOMATION
 
 

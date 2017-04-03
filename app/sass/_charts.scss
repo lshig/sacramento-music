@@ -1,0 +1,24 @@
+//-------------------------------------
+// DATA VISUALIZATIONS
+//-------------------------------------
+
+.chart {
+  width: 90%;
+  margin: 10vw auto;
+
+  .chart-title-wrapper {
+    font-size: 0.9vw;
+  }
+
+  .chart-title-header {
+    font-family: $BODY_FONT_FAMILY;
+    color: $GRAPH_TITLE_COLOR;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 3em 0;
+    font-size: 3.3em;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    line-height: 1;
+  }
+}

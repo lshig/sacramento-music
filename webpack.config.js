@@ -1,24 +1,30 @@
 var webpack = require('webpack');
 var path = require('path');
-var BUILD_DIR = path.resolve(__dirname, 'src/client/app/scripts/js');
-var APP_DIR = path.resolve(__dirname, 'src/client/app/scripts/jsx');
-var config = {
-  entry: {
-    index: APP_DIR + '/app.jsx'
+var APP_DIR = path.resolve(__dirname, 'app/scripts');
+var BUILD_DIR = __dirname;
+var HTMLWebpackPlugin = require('html-webpack-plugin');
+var UglifyJSPlugin = require('uglifyjs-webpack-plugin');
+var HTMLWebpackPluginConfig = new HTMLWebpackPlugin({
+  template: __dirname + '/app/index.html',
+  filename: 'index.html',
+  inject: 'body'
+});
+module.exports = {
+  entry: APP_DIR + '/index.js',
+  module: {
+    loaders: [
+      {
+        test: /\.js$/,
+        exclude: /node_modules/,
+        loader: 'babel-loader'
+      }
+    ]
   },
   output: {
     path: BUILD_DIR,
     filename: 'bundle.js'
   },
-  module : {
-    loaders : [
-      {
-        test : /\.jsx?/,
-        exclude: /node_modules/,
-        include : APP_DIR,
-        loader : 'babel-loader'
-      }
-    ]
-  }
+  plugins: [
+    HTMLWebpackPluginConfig
+  ]
 };
-module.exports = config;

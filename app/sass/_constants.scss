@@ -1,0 +1,78 @@
+//-------------------------------------
+// DIMENSIONS
+//-------------------------------------
+$IMAGE_MAX_WIDTH: 800px;
+$HEADING_MAX_WIDTH: 600px;
+$TEXT_MAX_WIDTH: 600px;
+$MARGIN_SPACE: 100px;
+$SECTION_MAX_WIDTH: 1000px !important;
+//-------------------------------------
+// COLOR
+//-------------------------------------
+// Based on Highcharts Dark Unica
+// http://www.highcharts.com/docs/chart-design-and-style/themes;
+$GRAPH_TITLE_COLOR: #E0E0E3;
+$GRAPH_AXIS_TITLE_COLOR: #A0A0A3;
+$GRAPH_AXIS_LABEL_COLOR: #E0E0E3;
+$GRAPH_MAJOR_LINE_COLOR: #707073;
+$GRAPH_MINOR_LINE_COLOR: #505053;
+$GRAPH_TOOLTIP_BACKGROUND_COLOR: rgba(0,0,0,0.85);
+$GRAPH_TOOLTIP_TEXT_COLOR: #F0F0F0;
+$GRAPH_DATA_LABEL_COLOR: #B0B0B3;
+$GRAPH_DATA_MARKER_COLOR: #333333;
+$GRAPH_LEGEND_ITEM_COLOR: #E0E0E3;
+$GRAPH_LEGEND_ITEM_HOVER_COLOR: #FFFFFF;
+$GRAPH_LEGEND_ITEM_HIDDEN_COLOR: #E0E0E3;
+$TABLE_BORDER_COLOR: #606063;
+$TABLE_BACKGROUND_COLOR: #3E3E40;
+// Google's Material Design Theme
+// https://material.google.com/style/color.html#color-color-palette;
+$CLEAR_COLOR: transparent;
+$BLACK: #000000;
+$WHITE: #FFFFFF;
+$PURPLE_DEEP_900: #5a2b81;
+$PURPLE_DEEP_A100: #B388FF;
+$PURPLE_DEEP_100: #D1C4E9;
+$GREY_200: #EEEEEE;
+$GREY_400: #BDBDBD;
+$GREY_600: #757575;
+$GREY_800: #424242;
+$GREY_BLUE_200: #B0BEC5;
+$GREY_BLUE_500: #607D8B;
+$BLUE_LIGHT_900: #01579B;
+$BLUE_LIGHT_500: #03A9F4;
+$TEAL_500: #009688;
+$TEAL_200: #80CBC4;
+$GREEN_LIGHT_600: #7CB342;
+$GREEN_LIGHT_A700: #64DD17;
+$YELLOW_300: #FFF176;
+$AMBER_300: #FFCA28;
+$BLACK_OPACITY_LOW: rgba(0,0,0,0.3);
+$BLACK_OPACITY_HIGH: rgba(0,0,0,0.6);
+$WHITE_OPACITY_HIGH: rgba(255,255,255,0.8);
+$WHITE_OPACITY_LOW: rgba(255,255,255,0.3);
+//-------------------------------------
+// LIZ LOGO
+//-------------------------------------;
+$LOGO_START_COLOR: #5f2c82;
+$LOGO_END_COLOR: #49a09d;
+
+//-------------------------------------
+// FONT FAMILY
+//-------------------------------------;
+$HEADING_FONT_FAMILY: 'Yanone Kaffeesatz', Arial, sans-serif;
+$BODY_FONT_FAMILY: 'Roboto', Arial, sans-serif;
+//-------------------------------------
+// BUTTONS
+//-------------------------------------
+$BUTTON_BORDER: none !default;
+$BUTTON_FONT_SIZE: 1.3rem !default;
+$BUTTON_HEIGHT: 36px !default;
+$BUTTON_PADDING: 0 2rem !default;
+$BUTTON_RADIUS: 2px !default;
+$BUTTON_FOCUS_BACKGROUND_COLOR: $WHITE !default;
+$BUTTON_RAISED_BACKGROUND_COLOR: $WHITE_OPACITY_HIGH !default;
+$BUTTON_RAISED_HOVER_BACKGROUND_COLOR: $BLACK_OPACITY_HIGH !default;
+$BUTTON_RAISED_COLOR: $WHITE !default;
+$BUTTON_LARGE_ICON_SIZE: 1.6rem !default;
+$BUTTON_LARGE_HEIGHT: $BUTTON_HEIGHT * 1.5 !default;
