@@ -1,29 +1,57 @@
 {
   "name": "sacramento-music",
-  "version": "1.1.0",
-  "description": "",
+  "version": "1.2.0",
+  "description": "A way for me to express my love for Sacramento, CA, music, and code.",
   "main": "bundle.js",
+  "author": "Liz Shigetoshi",
+  "repository": "https://github.com/lshig/sacramento-music.git",
+  "license": "MIT",
+  "standard": {
+    "parser": "babel-eslint",
+    "globals": [
+      "describe",
+      "context",
+      "before",
+      "beforeEach",
+      "after",
+      "afterEach",
+      "it",
+      "expect",
+      "array",
+      "func"
+    ]
+  },
   "dependencies": {
     "highcharts": "*",
+    "prop-types": "*",
     "react": "*",
     "react-dom": "*",
     "react-highcharts": "*"
   },
   "devDependencies": {
     "babel-core": "*",
+    "babel-eslint": "*",
     "babel-loader": "*",
-    "babel-preset-es2015": "*",
+    "babel-preset-env": "*",
     "babel-preset-react": "*",
+    "enzyme": "*",
+    "eslint": "*",
     "html-webpack-plugin": "*",
+    "jest-cli": "*",
+    "react-dom": "*",
+    "react-test-renderer": "*",
+    "standard": "*",
     "uglifyjs-webpack-plugin": "*",
     "webpack": "*",
     "webpack-dev-server": "*"
   },
   "scripts": {
     "start": "npm install",
+    "pretest": "standard --fix",
+    "test": "jest --no-cache --verbose",
+    "test:watch": "npm test -- --watch",
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
     "server": "webpack-dev-server"
-  },
-  "author": "Liz Shigetoshi"
+  }
 }

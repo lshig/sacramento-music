@@ -1,30 +1,51 @@
-var webpack = require('webpack');
-var path = require('path');
-var APP_DIR = path.resolve(__dirname, 'app/scripts');
-var BUILD_DIR = __dirname;
-var HTMLWebpackPlugin = require('html-webpack-plugin');
-var UglifyJSPlugin = require('uglifyjs-webpack-plugin');
-var HTMLWebpackPluginConfig = new HTMLWebpackPlugin({
-  template: __dirname + '/app/index.html',
+const path = require('path')
+const webpack = require('webpack')
+const HTMLWebpackPlugin = require('html-webpack-plugin')
+const HTMLWebpackPluginConfig = new HTMLWebpackPlugin({
+  template: path.join(__dirname, '/src/index.html'),
   filename: 'index.html',
   inject: 'body'
-});
+})
+const VendorChunkPluginConfig = new webpack.optimize.CommonsChunkPlugin({
+  name: 'vendor',
+  filename: 'vendor.js',
+  minChunks: function(module){
+    return module.context && module.context.indexOf("node_modules") !== -1;
+  }
+})
 module.exports = {
-  entry: APP_DIR + '/index.js',
+  entry: path.resolve(__dirname, 'src/index.js'),
+  output: {
+    path: __dirname,
+    libraryTarget: 'umd',
+    filename: 'bundle.js'
+  },
   module: {
-    loaders: [
+    rules: [
       {
-        test: /\.js$/,
-        exclude: /node_modules/,
-        loader: 'babel-loader'
+        test: /\.js?$/,
+        include: [
+          path.resolve(__dirname, 'src')
+        ],
+        exclude: [
+          path.resolve(__dirname, 'node_modules')
+        ],
+        loader: 'babel-loader',
+        options: {
+          presets: ['env']
+        },
       }
     ]
   },
-  output: {
-    path: BUILD_DIR,
-    filename: 'bundle.js'
+  performance: {
+    // hints: 'warning',
+    maxAssetSize: 200000,
+    maxEntrypointSize: 400000
   },
-  plugins: [
-    HTMLWebpackPluginConfig
-  ]
+  plugins: [HTMLWebpackPluginConfig, VendorChunkPluginConfig],
+  devServer: {
+    watchOptions: {
+      poll: true
+    }
+  }
 };
