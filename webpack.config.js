@@ -2,23 +2,25 @@ const path = require('path')
 const webpack = require('webpack')
 const HTMLWebpackPlugin = require('html-webpack-plugin')
 const HTMLWebpackPluginConfig = new HTMLWebpackPlugin({
-  template: path.join(__dirname, '/src/index.html'),
+  template: path.join(__dirname, 'src/index.html'),
   filename: 'index.html',
   inject: 'body'
 })
 const VendorChunkPluginConfig = new webpack.optimize.CommonsChunkPlugin({
   name: 'vendor',
-  filename: 'vendor.js',
+  filename: 'dist/vendor.js',
   minChunks: function(module){
     return module.context && module.context.indexOf("node_modules") !== -1;
   }
 })
 module.exports = {
-  entry: path.resolve(__dirname, 'src/index.js'),
+  entry: {
+    'dist/bundle': './src/index.js'
+  },
   output: {
     path: __dirname,
     libraryTarget: 'umd',
-    filename: 'bundle.js'
+    filename: '[name].js'
   },
   module: {
     rules: [
