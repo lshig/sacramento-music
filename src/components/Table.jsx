@@ -1,6 +1,6 @@
 import React from 'react';
 import options from '../constants/RawData.js';
-const Table = () => {
+export default function Table () {
   return (
     <section className="table-info">
       <div className="table-container">
@@ -15,7 +15,7 @@ const Table = () => {
             </tr>
           </thead>
           <tbody>
-          {options.data.reverse().map(function(item) {
+          {options.data.reverse().map(item => {
             return (
               <tr key={item.title.replace(/[^0-9a-z]/gi,'')+'_'+item.artist.replace(/[^0-9a-z]/gi,'')+'_'+item.year}>
                 <td><a target="_blank" href={item.source}>{item.title}</a></td>
@@ -29,4 +29,3 @@ const Table = () => {
     </section>
   );
 }
-export default Table

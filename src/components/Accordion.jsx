@@ -1,10 +1,10 @@
 import React from 'react';
-import options from '../constants/ProjectData.js';
-const Accordian = () => {
+import options from '../constants/ProjectData';
+export default function Accordian () {
   return (
     <div className="project-info">
       <ul className="collapsible" data-collapsible="accordion">
-        {options.map(function(item) {
+        {options.map(item => {
           return (
             <li key={item.id + '-item'}>
               <div className="collapsible-header">
@@ -15,10 +15,9 @@ const Accordian = () => {
                 <pre className="pre-wrap">{item.description}</pre>
               </div>
             </li>
-          );
+          )
         })}
       </ul>
     </div>
   );
 }
-export default Accordian

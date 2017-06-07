@@ -1,10 +1,10 @@
 import React from 'react';
 import options from '../constants/ChartData.js';
 const ReactHighcharts = require('react-highcharts');
-const Chart = () => {
+export default function Chart () {
   return (
     <section className="data-vis">
-      {options.map(function(item) {
+      {options.map(item => {
         return (
           <div key={item.container} className='chart' id={item.container}>
             <div className='chart-title-wrapper'>
@@ -28,4 +28,3 @@ const Chart = () => {
     </section>
   );
 }
-export default Chart

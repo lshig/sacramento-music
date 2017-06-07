@@ -8,24 +8,27 @@ const HTMLWebpackPluginConfig = new HTMLWebpackPlugin({
 })
 const VendorChunkPluginConfig = new webpack.optimize.CommonsChunkPlugin({
   name: 'vendor',
-  filename: 'dist/vendor.js',
+  filename: 'dest/vendor.js',
   minChunks: function(module){
     return module.context && module.context.indexOf("node_modules") !== -1;
   }
 })
 module.exports = {
   entry: {
-    'dist/bundle': './src/index.js'
+    'dest/bundle': './src/index.jsx'
   },
   output: {
     path: __dirname,
     libraryTarget: 'umd',
     filename: '[name].js'
   },
+  resolve: {
+    extensions: ['.js','.jsx']
+  },
   module: {
     rules: [
       {
-        test: /\.js?$/,
+        test: /\.jsx?$/,
         include: [
           path.resolve(__dirname, 'src')
         ],
@@ -39,8 +42,8 @@ module.exports = {
       }
     ]
   },
+  devtool: 'source-map',
   performance: {
-    // hints: 'warning',
     maxAssetSize: 200000,
     maxEntrypointSize: 400000
   },
