@@ -1,5 +1,6 @@
 import React from 'react';
 import options from '../constants/RawData.js';
+
 export default function Table () {
   return (
     <section className="table-info">

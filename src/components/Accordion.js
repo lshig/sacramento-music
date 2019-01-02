@@ -1,5 +1,6 @@
 import React from 'react';
 import options from '../constants/ProjectData';
+
 export default function Accordian () {
   return (
     <div className="project-info">

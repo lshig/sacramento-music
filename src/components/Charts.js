@@ -1,6 +1,8 @@
 import React from 'react';
 import options from '../constants/ChartData.js';
+
 const ReactHighcharts = require('react-highcharts');
+
 export default function Chart () {
   return (
     <section className="data-vis">

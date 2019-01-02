@@ -1,5 +1,6 @@
 import React from 'react';
-export default function Button () { 
+
+export default function Button () {
   return (
     <div className="code-info">
       <a href="https://lshig.github.io" target="_blank" className="button__large liz-logo">
