@@ -1,56 +1,69 @@
-const path = require('path')
-const webpack = require('webpack')
-const HTMLWebpackPlugin = require('html-webpack-plugin')
+require('webpack');
+const path = require('path');
+const HTMLWebpackPlugin = require('html-webpack-plugin');
+
 const HTMLWebpackPluginConfig = new HTMLWebpackPlugin({
-  template: path.join(__dirname, 'src/index.html'),
-  filename: 'index.html',
-  inject: 'body'
-})
-const VendorChunkPluginConfig = new webpack.optimize.CommonsChunkPlugin({
-  name: 'vendor',
-  filename: 'dest/vendor.js',
-  minChunks: function(module){
-    return module.context && module.context.indexOf("node_modules") !== -1;
-  }
-})
+  filename: path.join(__dirname, '/index.html'),
+  inject: true,
+  minify: {
+    removeComments: true,
+    collapseWhitespace: true,
+    removeRedundantAttributes: true,
+    useShortDoctype: true,
+    removeEmptyAttributes: true,
+    removeStyleLinkTypeAttributes: true,
+    keepClosingSlash: true,
+    minifyJS: true,
+    minifyCSS: true,
+    minifyURLs: true
+  },
+  template: path.join(__dirname, '/src/index.html')
+});
+
 module.exports = {
+  mode: 'development',
   entry: {
-    'dest/bundle': './src/index.jsx'
+    main: './src/index.js'
   },
   output: {
-    path: __dirname,
-    libraryTarget: 'umd',
-    filename: '[name].js'
+    chunkFilename: 'vendor.js',
+    filename: 'bundle.js',
+    path: path.resolve(__dirname, 'dist')
   },
   resolve: {
-    extensions: ['.js','.jsx']
+    extensions: ['.js']
   },
   module: {
     rules: [
       {
-        test: /\.jsx?$/,
-        include: [
-          path.resolve(__dirname, 'src')
-        ],
-        exclude: [
-          path.resolve(__dirname, 'node_modules')
-        ],
+        exclude: /node_modules/,
+        include: [path.resolve(__dirname, 'src')],
         loader: 'babel-loader',
         options: {
-          presets: ['env']
+          presets: ['@babel/react', '@babel/env']
         },
+        test: /\.(js|jsx)$/
       }
-    ]
+    ],
+    noParse: /(mapbox-gl)\.js$/
   },
-  devtool: 'source-map',
-  performance: {
-    maxAssetSize: 200000,
-    maxEntrypointSize: 400000
+  optimization: {
+    splitChunks: {
+      cacheGroups: {
+        vendor: {
+          chunks: 'initial',
+          name: 'vendor',
+          test: 'vendor',
+          enforce: true
+        }
+      }
+    },
+    runtimeChunk: 'single'
   },
-  plugins: [HTMLWebpackPluginConfig, VendorChunkPluginConfig],
+  performance: false,
+  plugins: [HTMLWebpackPluginConfig],
   devServer: {
-    watchOptions: {
-      poll: true
-    }
+    compress: true,
+    port: 9000
   }
 };
