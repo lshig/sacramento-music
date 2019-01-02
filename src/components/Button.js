@@ -1,13 +1,23 @@
 import React from 'react';
 
-export default function Button () {
+export default function Button() {
   return (
     <div className="code-info">
-      <a href="https://lshig.github.io" target="_blank" className="button__large liz-logo">
+      <a
+        className="button__large liz-logo"
+        href="https://lshig.github.io"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
         <span>Liz Shigetoshi</span>
       </a>
-      <a href="https://github.com/lshig/sacramento-music" target="_blank" className="button__large">
-        <i className="fa fa-github"></i>
+      <a
+        className="button__large"
+        href="https://github.com/lshig/sacramento-music"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        <i className="fa fa-github" />
         <span>View on GitHub</span>
       </a>
     </div>

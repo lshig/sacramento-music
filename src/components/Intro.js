@@ -2,7 +2,7 @@ import React from 'react';
 import Accordion from './Accordion';
 import Button from './Button';
 
-export default function Intro () {
+export default function Intro() {
   return (
     <section className="intro">
       <Button />

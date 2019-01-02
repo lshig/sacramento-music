@@ -4,7 +4,7 @@ import Heading from './Heading';
 import Intro from './Intro';
 import Table from './Table';
 
-export default function App () {
+export default function App() {
   return (
     <div>
       <Heading />
