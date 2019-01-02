@@ -1,4 +1,4 @@
-import Highcharts from 'highcharts';
+import { Highcharts } from 'react-highcharts';
 import theme from './ChartTheme.js';
 
 Highcharts.setOptions(theme);
