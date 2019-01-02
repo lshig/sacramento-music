@@ -1,5 +1,5 @@
 import React from 'react';
-import options from '../constants/RawData.js';
+import options from '../data/songs.js';
 
 export default function Table() {
   return (

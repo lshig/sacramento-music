@@ -1,5 +1,5 @@
 import React from 'react';
-import options from '../constants/ChartData.js';
+import options from '../data/charts.js';
 
 const ReactHighcharts = require('react-highcharts');
 

@@ -1,5 +1,5 @@
 import { Highcharts } from 'react-highcharts';
-import theme from './ChartTheme.js';
+import theme from './chart-theme.js';
 
 Highcharts.setOptions(theme);
 export default [

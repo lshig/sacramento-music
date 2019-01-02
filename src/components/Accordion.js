@@ -1,5 +1,5 @@
 import React from 'react';
-import options from '../constants/ProjectData';
+import options from '../data/project';
 
 export default function Accordian() {
   return (
