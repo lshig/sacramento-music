@@ -2,8 +2,6 @@
 
 Check out the [Live Demo](https://lshig.github.io/sacramento-music)!
 
-A way for me to express my love for Sacramento, CA, music, and code. This is also a place for me to play with Atom, GitHub Pages, Babel, ES2015+, JSX, React, Webpack, Highcharts, Node.js, npm, Materialize, Font Awesome, and SASS.
-
 ## Basics
 
 - Install [Node.js and npm](https://nodejs.org/en/)
@@ -14,12 +12,6 @@ A way for me to express my love for Sacramento, CA, music, and code. This is als
 - Build `npm run build:prod` for production-ish
 - Option 1: View by opening `index.html` in a web browser
 - Option 2: `npm run server` and open `http://localhost:8080/`
-
-## TODO
-- add events to demonstrate React + Redux
-- make page more accessible
-- build better web scrapper, AUTOMATION
-
 
 Thanks for stopping by to see one of the things I like to experiment on!
 
