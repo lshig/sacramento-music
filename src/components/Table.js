@@ -2,6 +2,36 @@ import React from 'react';
 import options from '../data/songs.js';
 
 export default function Table() {
+  let tableBody = null;
+  tableBody = options.data.reverse().map(song => {
+    return (
+      <tr
+        key={
+          song.title.replace(/[^0-9a-z]/gi, '') +
+          '_' +
+          song.artist.replace(/[^0-9a-z]/gi, '') +
+          '_' +
+          song.year
+        }
+      >
+        <td>
+          <a
+            href={song.source}
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            {song.title}
+          </a>
+        </td>
+        <td>
+          {song.featureArtist
+            ? song.artist + ', ' + song.featureArtist
+            : song.artist}
+        </td>
+      </tr>
+    );
+  });
+
   return (
     <section className="table-info">
       <div className="table-container">
@@ -20,34 +50,7 @@ export default function Table() {
             </tr>
           </thead>
           <tbody>
-            {options.data.reverse().map(item => {
-              return (
-                <tr
-                  key={
-                    item.title.replace(/[^0-9a-z]/gi, '') +
-                    '_' +
-                    item.artist.replace(/[^0-9a-z]/gi, '') +
-                    '_' +
-                    item.year
-                  }
-                >
-                  <td>
-                    <a
-                      href={item.source}
-                      rel="noopener noreferrer"
-                      target="_blank"
-                    >
-                      {item.title}
-                    </a>
-                  </td>
-                  <td>
-                    {item.featureArtist
-                      ? item.artist + ', ' + item.featureArtist
-                      : item.artist}
-                  </td>
-                </tr>
-              );
-            })}
+            {tableBody}
           </tbody>
         </table>
       </div>
