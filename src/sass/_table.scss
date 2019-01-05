@@ -1,12 +1,14 @@
-//-------------------------------------
-// TABLE
-//-------------------------------------
+/*******************
+Table
+*******************/
 
 .table-container {
   width: 90%;
   margin: 10vw auto;
+
   .table-title-wrapper {
     font-size: 0.9vw;
+
     .table-title-heading {
       font-family: $BODY_FONT_FAMILY;
       color: $GRAPH_TITLE_COLOR;

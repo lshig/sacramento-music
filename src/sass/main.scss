@@ -2,17 +2,19 @@
 @import url("https://use.fontawesome.com/7d90fe5352.css");
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,700");
 @import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,400");
-//-------------------------------------
-// DIMENSIONS
-//-------------------------------------
+
+/*******************
+Dimensions
+*******************/
 $IMAGE_MAX_WIDTH: 800px;
 $HEADING_MAX_WIDTH: 600px;
 $TEXT_MAX_WIDTH: 600px;
 $MARGIN_SPACE: 100px;
 $SECTION_MAX_WIDTH: 1000px !important;
-//-------------------------------------
-// COLOR
-//-------------------------------------
+
+/*******************
+Colors
+*******************/
 // Based on Highcharts Dark Unica
 // http://www.highcharts.com/docs/chart-design-and-style/themes;
 $GRAPH_TITLE_COLOR: #E0E0E3;
@@ -55,20 +57,22 @@ $BLACK_OPACITY_LOW: rgba(0,0,0,0.3);
 $BLACK_OPACITY_HIGH: rgba(0,0,0,0.6);
 $WHITE_OPACITY_HIGH: rgba(255,255,255,0.8);
 $WHITE_OPACITY_LOW: rgba(255,255,255,0.3);
-//-------------------------------------
-// LIZ LOGO
-//-------------------------------------;
+
+/*******************
+Logo
+*******************/
 $LOGO_START_COLOR: #5f2c82;
 $LOGO_END_COLOR: #49a09d;
 
-//-------------------------------------
-// FONT FAMILY
-//-------------------------------------;
+/*******************
+Fonts
+*******************/
 $HEADING_FONT_FAMILY: 'Yanone Kaffeesatz', Arial, sans-serif;
 $BODY_FONT_FAMILY: 'Roboto', Arial, sans-serif;
-//-------------------------------------
-// BUTTONS
-//-------------------------------------
+
+/*******************
+Buttons
+*******************/
 $BUTTON_BORDER: none !default;
 $BUTTON_FONT_SIZE: 1.3rem !default;
 $BUTTON_HEIGHT: 36px !default;
@@ -80,4 +84,5 @@ $BUTTON_RAISED_HOVER_BACKGROUND_COLOR: $BLACK_OPACITY_HIGH !default;
 $BUTTON_RAISED_COLOR: $WHITE !default;
 $BUTTON_LARGE_ICON_SIZE: 1.6rem !default;
 $BUTTON_LARGE_HEIGHT: $BUTTON_HEIGHT * 1.5 !default;
+
 @import "_base","_buttons","_collapsible","_table","_heading","_charts";
