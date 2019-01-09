@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading basic renders 1`] = `
+<div
+  className="heading"
+>
+  <div
+    className="heading--wrapper"
+  >
+    <h1>
+      Sacramento, CA
+    </h1>
+    <h1>
+      Meets
+    </h1>
+    <h1>
+      Music and Code
+    </h1>
+  </div>
+</div>
+`;

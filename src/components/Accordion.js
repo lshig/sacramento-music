@@ -5,9 +5,9 @@ export default function Accordian() {
   return (
     <div className="project-info">
       <ul className="collapsible" data-collapsible="accordion">
-        {options.map(item => {
+        {options.map((item, key) => {
           return (
-            <li key={item.id + '-item'}>
+            <li key={key}>
               <div className="collapsible-header">
                 <i className={item.icon} />
                 <span>{item.title}</span>

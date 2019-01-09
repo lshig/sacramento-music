@@ -1,0 +1,4057 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table basic renders 1`] = `
+<section
+  className="table-info"
+>
+  <div
+    className="table-container"
+  >
+    <div
+      className="table-title-wrapper"
+    >
+      <h1
+        className="table-title-heading"
+      >
+        251 Shout Out Songs
+      </h1>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th
+            className="med-col"
+            data-field="title"
+          >
+            song title
+          </th>
+          <th
+            className="med-col"
+            data-field="artist"
+          >
+            artist
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr
+          key="0"
+        >
+          <td>
+            <a
+              href="https://soundcloud.com/sooshe/hold-it-down-f-frshagen-prod-ru-areyou"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              hold it down
+            </a>
+          </td>
+          <td>
+            soosh*e!, fshagen
+          </td>
+        </tr>
+        <tr
+          key="1"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              enjoy sacramento
+            </a>
+          </td>
+          <td>
+            8 good fingers
+          </td>
+        </tr>
+        <tr
+          key="2"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            black strike
+          </td>
+        </tr>
+        <tr
+          key="3"
+        >
+          <td>
+            <a
+              href="https://www.youtube.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              nothing like california
+            </a>
+          </td>
+          <td>
+            diverzity
+          </td>
+        </tr>
+        <tr
+          key="4"
+        >
+          <td>
+            <a
+              href="http://genius.com/vic-mensa-new-bae-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              new bae
+            </a>
+          </td>
+          <td>
+            vic mensa
+          </td>
+        </tr>
+        <tr
+          key="5"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/lonelyisland/rockrollskate.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              rock roll skate
+            </a>
+          </td>
+          <td>
+            the lonely island
+          </td>
+        </tr>
+        <tr
+          key="6"
+        >
+          <td>
+            <a
+              href="https://www.youtube.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              gimme a momemt
+            </a>
+          </td>
+          <td>
+            vue peter, bxo, tbone, coolaycoo, tommieboi, toxic t, poetic tone, diverzity, yungclaymor, big p, ma8trixz, mo thugg, ltee
+          </td>
+        </tr>
+        <tr
+          key="7"
+        >
+          <td>
+            <a
+              href="https://soundcloud.com/therealgrouch/zge-i-love-california-like-you"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              i love california like you
+            </a>
+          </td>
+          <td>
+            zion i
+          </td>
+        </tr>
+        <tr
+          key="8"
+        >
+          <td>
+            <a
+              href="https://www.youtube.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              party with us ( cali 2 )
+            </a>
+          </td>
+          <td>
+            diverzity, vue peter, coolaycoo
+          </td>
+        </tr>
+        <tr
+          key="9"
+        >
+          <td>
+            <a
+              href="https://www.youtube.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              cali
+            </a>
+          </td>
+          <td>
+            coolaycoo, vue peter
+          </td>
+        </tr>
+        <tr
+          key="10"
+        >
+          <td>
+            <a
+              href="https://www.youtube.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              straight up cali
+            </a>
+          </td>
+          <td>
+            vue peter, tbone, xl
+          </td>
+        </tr>
+        <tr
+          key="11"
+        >
+          <td>
+            <a
+              href="https://www.youtube.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              summer nights
+            </a>
+          </td>
+          <td>
+            vue peter
+          </td>
+        </tr>
+        <tr
+          key="12"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              she get around
+            </a>
+          </td>
+          <td>
+            young dizzy
+          </td>
+        </tr>
+        <tr
+          key="13"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              pull up
+            </a>
+          </td>
+          <td>
+            young dizzy
+          </td>
+        </tr>
+        <tr
+          key="14"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              cruisin' round sac
+            </a>
+          </td>
+          <td>
+            young dizzy
+          </td>
+        </tr>
+        <tr
+          key="15"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-south-sac-get-the-money-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              south sac get the money
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="16"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento proud
+            </a>
+          </td>
+          <td>
+            yung sam
+          </td>
+        </tr>
+        <tr
+          key="17"
+        >
+          <td>
+            <a
+              href="https://soundcloud.com/sefam1/sacramento-waddup-sefa"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento waddup
+            </a>
+          </td>
+          <td>
+            sefa
+          </td>
+        </tr>
+        <tr
+          key="18"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento republic
+            </a>
+          </td>
+          <td>
+            rich ko
+          </td>
+        </tr>
+        <tr
+          key="19"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento anthem
+            </a>
+          </td>
+          <td>
+            ayiddy
+          </td>
+        </tr>
+        <tr
+          key="20"
+        >
+          <td>
+            <a
+              href="https://soundcloud.com/sooshe/ctil"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              #ctil (come thru it's lit)
+            </a>
+          </td>
+          <td>
+            soosh*e!
+          </td>
+        </tr>
+        <tr
+          key="21"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              grow up (sacramento)
+            </a>
+          </td>
+          <td>
+            doofy doo
+          </td>
+        </tr>
+        <tr
+          key="22"
+        >
+          <td>
+            <a
+              href="https://soundcloud.com/luke-tailor/ghetto-gospel"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              ghetto gospel
+            </a>
+          </td>
+          <td>
+            luke tailor
+          </td>
+        </tr>
+        <tr
+          key="23"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/nofx/safewords.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              safe words
+            </a>
+          </td>
+          <td>
+            nofx
+          </td>
+        </tr>
+        <tr
+          key="24"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/bigsean/idontfuckwithyou.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              i don't fuck with you
+            </a>
+          </td>
+          <td>
+            big sean, e-40
+          </td>
+        </tr>
+        <tr
+          key="25"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/berner/breathedreaming.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              breathe / dreaming
+            </a>
+          </td>
+          <td>
+            berner, ampichino
+          </td>
+        </tr>
+        <tr
+          key="26"
+        >
+          <td>
+            <a
+              href="http://genius.com/colonel-loud-california-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              california
+            </a>
+          </td>
+          <td>
+            colenel loud
+          </td>
+        </tr>
+        <tr
+          key="27"
+        >
+          <td>
+            <a
+              href="http://bebraveboldrobot.bandcamp.com/track/sacramento#lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            be brave bold robot
+          </td>
+        </tr>
+        <tr
+          key="28"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-lime-lights-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              lime lights
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="29"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-florin-light-rail-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              florin light rail
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="30"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/hodgybeats/workthatshit.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              work that shit
+            </a>
+          </td>
+          <td>
+            hodgy beats
+          </td>
+        </tr>
+        <tr
+          key="31"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/berner/passmethegreen.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              pass me the green
+            </a>
+          </td>
+          <td>
+            berner, migos
+          </td>
+        </tr>
+        <tr
+          key="32"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184374768391/al56012b43e7c622686a819564/t56012b44e7c622686a819652"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sf 2 sac
+            </a>
+          </td>
+          <td>
+            e-40, san quinn, messy marv
+          </td>
+        </tr>
+        <tr
+          key="33"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-riverside-ransom-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              riverside ransom
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="34"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-dueyuu-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              dueeyu
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="35"
+        >
+          <td>
+            <a
+              href="https://soundcloud.com/luke-tailor/be-free-after-j-cole"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              be free (after j. cole)
+            </a>
+          </td>
+          <td>
+            luke tailor
+          </td>
+        </tr>
+        <tr
+          key="36"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-meadowview-morning-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              meadowview morning
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="37"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-regional-transit-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              regional transit
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="38"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-powder-inn-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              power inn
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="39"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-meanwhile-off-mack-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              meanwhile off mack
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="40"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-lonely-in-land-park-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              lonely in land park
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="41"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-save-the-last-dance-for-someone-who-cares-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              save the last dance (for someone who cares)
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="42"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-greenhaven-blues-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              greenhaven blues
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="43"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-what-we-started-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              what we started
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="44"
+        >
+          <td>
+            <a
+              href="http://genius.com/chuuwee-florin-high-flirt-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              florin high flirt
+            </a>
+          </td>
+          <td>
+            chuuwee
+          </td>
+        </tr>
+        <tr
+          key="45"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/drake/6man.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              6 man
+            </a>
+          </td>
+          <td>
+            drake
+          </td>
+        </tr>
+        <tr
+          key="46"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/pastortroy/downtoride.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              down to ride
+            </a>
+          </td>
+          <td>
+            pastor troy
+          </td>
+        </tr>
+        <tr
+          key="47"
+        >
+          <td>
+            <a
+              href="http://www.capradio.org/music/eclectic/2015/02/18/songs-of-sacramento-tunes-inspired-by-our-city/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento song
+            </a>
+          </td>
+          <td>
+            preoccupied pipers
+          </td>
+        </tr>
+        <tr
+          key="48"
+        >
+          <td>
+            <a
+              href="https://play.google.com/music/preview/tgiw2iyerqudku2e3v5pgxr27xu?preview=ae9vgkorad2iiibppltktjuderb8di5hyzqoxqekzrkq8ugcku-qsbqzw3-bls4xfcd1t2hpnatciojnr-di18sykhiv-gk2r2skgqakjgaw8d9gqx0fbd8%3d"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              march to sacramento
+            </a>
+          </td>
+          <td>
+            michael brook
+          </td>
+        </tr>
+        <tr
+          key="49"
+        >
+          <td>
+            <a
+              href="http://www.metrolyrics.com/sacramento-lyrics-cherry-ghost.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            cherry ghost
+          </td>
+        </tr>
+        <tr
+          key="50"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184374110880/al55f0b87ea5f39075734fa49b/t55f0b880a5f39075734fa57a"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              possibly the best song about sacramento recorded this week!
+            </a>
+          </td>
+          <td>
+            the guy who sings songs about cities & towns
+          </td>
+        </tr>
+        <tr
+          key="51"
+        >
+          <td>
+            <a
+              href="https://soundcloud.com/luke-tailor/the-city"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              the city
+            </a>
+          </td>
+          <td>
+            luke tailor
+          </td>
+        </tr>
+        <tr
+          key="52"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/wizkhalifa/updown.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              up down
+            </a>
+          </td>
+          <td>
+            wiz khalifa, berner
+          </td>
+        </tr>
+        <tr
+          key="53"
+        >
+          <td>
+            <a
+              href="http://www.songlyrics.com/goodtime-boys/folsom-lyrics/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              folsom
+            </a>
+          </td>
+          <td>
+            goodtime boys
+          </td>
+        </tr>
+        <tr
+          key="54"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184374110880/al55f0b87ea5f39075734fa49b/t55f0b880a5f39075734fa57a"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              elk grove is a great city
+            </a>
+          </td>
+          <td>
+            the guy who sings songs about cities & towns
+          </td>
+        </tr>
+        <tr
+          key="55"
+        >
+          <td>
+            <a
+              href="https://soundcloud.com/luke-tailor/perfection-feat-soosh-e"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              perfection
+            </a>
+          </td>
+          <td>
+            luke tailor, soosh*e!
+          </td>
+        </tr>
+        <tr
+          key="56"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/youngdolph/nosleep.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              no sleep
+            </a>
+          </td>
+          <td>
+            young dolph
+          </td>
+        </tr>
+        <tr
+          key="57"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/joellortiz/outtacontrolkendricklamarresponse.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              outta control (kendrick lamar response)
+            </a>
+          </td>
+          <td>
+            joell ortiz
+          </td>
+        </tr>
+        <tr
+          key="58"
+        >
+          <td>
+            <a
+              href="http://www.songlyrics.com/doug-allen/doug-allen/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            doug allen
+          </td>
+        </tr>
+        <tr
+          key="59"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/96930396/5am-in-sacramento"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              5am in sacramento
+            </a>
+          </td>
+          <td>
+            bueno
+          </td>
+        </tr>
+        <tr
+          key="60"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/90945289/sacramento-blues"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento blues
+            </a>
+          </td>
+          <td>
+            dolly shine
+          </td>
+        </tr>
+        <tr
+          key="61"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/57131461/sacramento-summertime"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento summertime
+            </a>
+          </td>
+          <td>
+            gangsta dre
+          </td>
+        </tr>
+        <tr
+          key="62"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/jrand/santagimmie.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              santa gimmie
+            </a>
+          </td>
+          <td>
+            j rand
+          </td>
+        </tr>
+        <tr
+          key="63"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/stabbed.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              stabbed
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, tech n9ne, hopsin
+          </td>
+        </tr>
+        <tr
+          key="64"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/canihaveanapkin.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              can i have a napkin?
+            </a>
+          </td>
+          <td>
+            brotha lynch hung
+          </td>
+        </tr>
+        <tr
+          key="65"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184374365211/al55f177dea5f39075738f424a/t55f177e1a5f39075738f42ce"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              i left my heart in sacramento
+            </a>
+          </td>
+          <td>
+            hall of faim
+          </td>
+        </tr>
+        <tr
+          key="66"
+        >
+          <td>
+            <a
+              href="http://genius.com/brotha-lynch-hung-eating-you-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              eating you
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, wrekonize, bernz
+          </td>
+        </tr>
+        <tr
+          key="67"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/dancegavindance/acceptancespeech.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              acceptance speech
+            </a>
+          </td>
+          <td>
+            dance gavin dance
+          </td>
+        </tr>
+        <tr
+          key="68"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/cimorelli/thewaywelive.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              the way we live
+            </a>
+          </td>
+          <td>
+            cimorelli
+          </td>
+        </tr>
+        <tr
+          key="69"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/cimorelli/madeinamerica.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              made in america
+            </a>
+          </td>
+          <td>
+            cimorelli
+          </td>
+        </tr>
+        <tr
+          key="70"
+        >
+          <td>
+            <a
+              href="http://genius.com/problem-say-that-then-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              say that then
+            </a>
+          </td>
+          <td>
+            problem
+          </td>
+        </tr>
+        <tr
+          key="71"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/lildicky/bars.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              bars
+            </a>
+          </td>
+          <td>
+            lil dicky
+          </td>
+        </tr>
+        <tr
+          key="72"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/96930396/5am-in-sacramento"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              meadowview
+            </a>
+          </td>
+          <td>
+            bueno
+          </td>
+        </tr>
+        <tr
+          key="73"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/96930396/5am-in-sacramento"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              city of trees
+            </a>
+          </td>
+          <td>
+            bueno
+          </td>
+        </tr>
+        <tr
+          key="74"
+        >
+          <td>
+            <a
+              href="https://sooshe.bandcamp.com/track/hometown-hero-feat-j-good-prod-by-ru"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              hometown hero
+            </a>
+          </td>
+          <td>
+            soosh*e!, j.good
+          </td>
+        </tr>
+        <tr
+          key="75"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/deathgrips/comeupandgetme.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              come up and get me
+            </a>
+          </td>
+          <td>
+            death grips
+          </td>
+        </tr>
+        <tr
+          key="76"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/guccimane/spreadtheword.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              spread the word
+            </a>
+          </td>
+          <td>
+            gucci mane
+          </td>
+        </tr>
+        <tr
+          key="77"
+        >
+          <td>
+            <a
+              href="https://sooshe.bandcamp.com/track/left-siders"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              left siders
+            </a>
+          </td>
+          <td>
+            soosh*e!
+          </td>
+        </tr>
+        <tr
+          key="78"
+        >
+          <td>
+            <a
+              href="https://www.amazon.com/sacramento-to-boston/dp/b009lawy9a"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento to boston
+            </a>
+          </td>
+          <td>
+            khaan & remerc
+          </td>
+        </tr>
+        <tr
+          key="79"
+        >
+          <td>
+            <a
+              href="http://www.capradio.org/music/eclectic/2015/02/18/songs-of-sacramento-tunes-inspired-by-our-city/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento, california usa
+            </a>
+          </td>
+          <td>
+            the freebadge serenaders
+          </td>
+        </tr>
+        <tr
+          key="80"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/lilb/dontforgetaboutme.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              dont forget about me
+            </a>
+          </td>
+          <td>
+            lil' b
+          </td>
+        </tr>
+        <tr
+          key="81"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/e40/dumptruck.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              dump truck
+            </a>
+          </td>
+          <td>
+            e-40, too $hort, travis porter, young chu
+          </td>
+        </tr>
+        <tr
+          key="82"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/chamillionaire/letsgetthat.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              let's get that
+            </a>
+          </td>
+          <td>
+            chamillionaire
+          </td>
+        </tr>
+        <tr
+          key="83"
+        >
+          <td>
+            <a
+              href="https://sooshe.bandcamp.com/track/round-two-prod-by-ru"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              round two
+            </a>
+          </td>
+          <td>
+            soosh*e!
+          </td>
+        </tr>
+        <tr
+          key="84"
+        >
+          <td>
+            <a
+              href="https://www.youtube.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sac city - tyga's rack city parody
+            </a>
+          </td>
+          <td>
+            intervisionstudios
+          </td>
+        </tr>
+        <tr
+          key="85"
+        >
+          <td>
+            <a
+              href="https://sooshe.bandcamp.com/track/made-you-look"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              made you look
+            </a>
+          </td>
+          <td>
+            soosh*e!
+          </td>
+        </tr>
+        <tr
+          key="86"
+        >
+          <td>
+            <a
+              href="https://www.amazon.com/wee-sing-america/dp/b004xxtpkg"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            wee sing
+          </td>
+        </tr>
+        <tr
+          key="87"
+        >
+          <td>
+            <a
+              href="http://www.metrolyrics.com/sacramento-lyrics-heavenly.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            heavenly
+          </td>
+        </tr>
+        <tr
+          key="88"
+        >
+          <td>
+            <a
+              href="http://www.letssingit.com/los-amos-de-nuevo-leon-lyrics-hyphy-tribal-b8ns8bl#axzz4cyho53jp"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              hyphy tribal
+            </a>
+          </td>
+          <td>
+            los amos de nuevo leon
+          </td>
+        </tr>
+        <tr
+          key="89"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/wale/mothernatureslowjammin.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              mother nature (slow jammin')
+            </a>
+          </td>
+          <td>
+            wale
+          </td>
+        </tr>
+        <tr
+          key="90"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/cake/boundaway.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              bound away
+            </a>
+          </td>
+          <td>
+            cake
+          </td>
+        </tr>
+        <tr
+          key="91"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184374532549/al55f1d421a5f3907573aeacc2/t55f1d422a5f3907573aead62"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            bumtech
+          </td>
+        </tr>
+        <tr
+          key="92"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/roachgigz/makeusay.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              make u say
+            </a>
+          </td>
+          <td>
+            roach gigz
+          </td>
+        </tr>
+        <tr
+          key="93"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/jayrock/finesthour.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              finest hour
+            </a>
+          </td>
+          <td>
+            jay rock, rick ross, bj the chicago kid
+          </td>
+        </tr>
+        <tr
+          key="94"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/techn9ne/whodoicatch.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              who do i catch
+            </a>
+          </td>
+          <td>
+            tech n9ne
+          </td>
+        </tr>
+        <tr
+          key="95"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/roscoedash/theimpossible.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              the impossible
+            </a>
+          </td>
+          <td>
+            roscoe dash
+          </td>
+        </tr>
+        <tr
+          key="96"
+        >
+          <td>
+            <a
+              href="https://sooshe.bandcamp.com/track/fruity-loops-game"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              fruity loops game
+            </a>
+          </td>
+          <td>
+            soosh*e!
+          </td>
+        </tr>
+        <tr
+          key="97"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sactown sactown
+            </a>
+          </td>
+          <td>
+            mally mall, ace d.
+          </td>
+        </tr>
+        <tr
+          key="98"
+        >
+          <td>
+            <a
+              href="http://genius.com/yung-automatik-go-hard-or-go-home-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              go hard or go home
+            </a>
+          </td>
+          <td>
+            yung automatik
+          </td>
+        </tr>
+        <tr
+          key="99"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/murderoverhard.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              murder over hard
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, g-macc, bzo
+          </td>
+        </tr>
+        <tr
+          key="100"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/63992877/home-to-sacramento"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              home to sacramento
+            </a>
+          </td>
+          <td>
+            the steam machine
+          </td>
+        </tr>
+        <tr
+          key="101"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/holdsteady/thesweetpartofthecity.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              the sweet part of the city
+            </a>
+          </td>
+          <td>
+            the hold steady
+          </td>
+        </tr>
+        <tr
+          key="102"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/earlsweatshirt/thisniggaugly.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              thisniggaugly
+            </a>
+          </td>
+          <td>
+            earl sweatshirt, tyler the creator
+          </td>
+        </tr>
+        <tr
+          key="103"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/splitpersonality.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              split personality
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, g-macc
+          </td>
+        </tr>
+        <tr
+          key="104"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/anothakillin.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              anotha killin
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, snoop dogg, tha dogg pound
+          </td>
+        </tr>
+        <tr
+          key="105"
+        >
+          <td>
+            <a
+              href="https://sooshe.bandcamp.com/track/roll-high"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              roll high
+            </a>
+          </td>
+          <td>
+            soosh*e!
+          </td>
+        </tr>
+        <tr
+          key="106"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              i'm in sac town trick
+            </a>
+          </td>
+          <td>
+            lmfao
+          </td>
+        </tr>
+        <tr
+          key="107"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              welcome 2 south sacramento
+            </a>
+          </td>
+          <td>
+            bloodshot
+          </td>
+        </tr>
+        <tr
+          key="108"
+        >
+          <td>
+            <a
+              href="https://www.youtube.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              going to sacramento
+            </a>
+          </td>
+          <td>
+            ventolin
+          </td>
+        </tr>
+        <tr
+          key="109"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184373930844/al55f052b0a5f390757319f68d/t55f052b1a5f390757319f783"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            thomas starks
+          </td>
+        </tr>
+        <tr
+          key="110"
+        >
+          <td>
+            <a
+              href="http://genius.com/timothy-b-schmit-white-boy-from-sacramento-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              white boy from sacramento
+            </a>
+          </td>
+          <td>
+            timothy b. schmit
+          </td>
+        </tr>
+        <tr
+          key="111"
+        >
+          <td>
+            <a
+              href="http://www.metrolyrics.com/everyone-ive-ever-known-lyrics-one-block-radius.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              everyone i've ever known
+            </a>
+          </td>
+          <td>
+            one block radius
+          </td>
+        </tr>
+        <tr
+          key="112"
+        >
+          <td>
+            <a
+              href="http://www.singers.com/group/harvard-glee-club/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            harvard glee club
+          </td>
+        </tr>
+        <tr
+          key="113"
+        >
+          <td>
+            <a
+              href="http://www.metrolyrics.com/yeah-sapphire-lyrics-the-hold-steady.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              yeah sapphire
+            </a>
+          </td>
+          <td>
+            the hot steady
+          </td>
+        </tr>
+        <tr
+          key="114"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184374362081/al55f17610a5f39075738eac4e/t55f17611a5f39075738eaced"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            light rail
+          </td>
+        </tr>
+        <tr
+          key="115"
+        >
+          <td>
+            <a
+              href="http://genius.com/pimp-c-isa-playa-time-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              is a playa
+            </a>
+          </td>
+          <td>
+            pimp c, twista, z-ro, bun b
+          </td>
+        </tr>
+        <tr
+          key="116"
+        >
+          <td>
+            <a
+              href="http://genius.com/heino-caramba-caracho-ein-whisky-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              caramba, caracho, ein whisky
+            </a>
+          </td>
+          <td>
+            heino
+          </td>
+        </tr>
+        <tr
+          key="117"
+        >
+          <td>
+            <a
+              href="http://genius.com/bone-brothers-thug-in-yo-life-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              thug in yo life
+            </a>
+          </td>
+          <td>
+            bone brothers
+          </td>
+        </tr>
+        <tr
+          key="118"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/ludacris/wishyouwould.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              wish you would
+            </a>
+          </td>
+          <td>
+            ludacris, t.i.
+          </td>
+        </tr>
+        <tr
+          key="119"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              town bizness - 916 remix
+            </a>
+          </td>
+          <td>
+            keak da sneak
+          </td>
+        </tr>
+        <tr
+          key="120"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento jazz
+            </a>
+          </td>
+          <td>
+            another rap group
+          </td>
+        </tr>
+        <tr
+          key="121"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento streets
+            </a>
+          </td>
+          <td>
+            80 leggs
+          </td>
+        </tr>
+        <tr
+          key="122"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/54015865/sacramento"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            stephen dale petit
+          </td>
+        </tr>
+        <tr
+          key="123"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/charliebrownjr/vivendoavidanumaloucaviagem.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              vivendo a vida numa louca viagem
+            </a>
+          </td>
+          <td>
+            charlie brown jr.
+          </td>
+        </tr>
+        <tr
+          key="124"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/charliebrownjr/skateboardamoreterno.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              skateboard amor eterno
+            </a>
+          </td>
+          <td>
+            charlie brown jr.
+          </td>
+        </tr>
+        <tr
+          key="125"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184373743629/al55d7179013b521ef228ec08e/t55d7179013b521ef228ec0b7"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            storyhill
+          </td>
+        </tr>
+        <tr
+          key="126"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/mims/thisiswhyimhot.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              this is why i'm hot
+            </a>
+          </td>
+          <td>
+            mims
+          </td>
+        </tr>
+        <tr
+          key="127"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/techn9ne/fanorfoe.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              fan or foe
+            </a>
+          </td>
+          <td>
+            tech n9ne
+          </td>
+        </tr>
+        <tr
+          key="128"
+        >
+          <td>
+            <a
+              href="http://genius.com/federation-college-girl-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              college girl
+            </a>
+          </td>
+          <td>
+            federation
+          </td>
+        </tr>
+        <tr
+          key="129"
+        >
+          <td>
+            <a
+              href="http://www.metrolyrics.com/ride-wit-me-lyrics-tbone.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              ride wit me
+            </a>
+          </td>
+          <td>
+            t-bone
+          </td>
+        </tr>
+        <tr
+          key="130"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento, ca
+            </a>
+          </td>
+          <td>
+            ffg
+          </td>
+        </tr>
+        <tr
+          key="131"
+        >
+          <td>
+            <a
+              href="http://www.storyhill.info/lyrics/sacramento.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            chris cunningham
+          </td>
+        </tr>
+        <tr
+          key="132"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/mskrazie/always.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              always
+            </a>
+          </td>
+          <td>
+            ms krazie
+          </td>
+        </tr>
+        <tr
+          key="133"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/e40/blockboi.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              block boi
+            </a>
+          </td>
+          <td>
+            e-40, miko, stressmatic of the federation
+          </td>
+        </tr>
+        <tr
+          key="134"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/moonshinebandits/sweethomecalifornia.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sweet home california
+            </a>
+          </td>
+          <td>
+            moonshine bandits
+          </td>
+        </tr>
+        <tr
+          key="135"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/ghostfacekillah/miguelsanchez.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              miguel sanchez
+            </a>
+          </td>
+          <td>
+            ghostface killah, sun god, trife da god
+          </td>
+        </tr>
+        <tr
+          key="136"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/tonyyayo/nyciswhereimfrom.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              nyc is where i'm from
+            </a>
+          </td>
+          <td>
+            tony yayo, lloyd banks
+          </td>
+        </tr>
+        <tr
+          key="137"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/53785351/sacramento"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            oxygen
+          </td>
+        </tr>
+        <tr
+          key="138"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/charliebrownjr/greenges.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              green g�es
+            </a>
+          </td>
+          <td>
+            charlie brown jr.
+          </td>
+        </tr>
+        <tr
+          key="139"
+        >
+          <td>
+            <a
+              href="http://genius.com/gretchen-wilson-california-girls-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              california girls
+            </a>
+          </td>
+          <td>
+            gretchen wilson
+          </td>
+        </tr>
+        <tr
+          key="140"
+        >
+          <td>
+            <a
+              href="http://genius.com/deep-dish-sacramento-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            deep dish
+          </td>
+        </tr>
+        <tr
+          key="141"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/game/imamobsta.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              i'm a mobsta
+            </a>
+          </td>
+          <td>
+            the game, young menace
+          </td>
+        </tr>
+        <tr
+          key="142"
+        >
+          <td>
+            <a
+              href="http://genius.com/camron-the-dope-man-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              the dope man
+            </a>
+          </td>
+          <td>
+            cam'ron, jim jones
+          </td>
+        </tr>
+        <tr
+          key="143"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              banks of the sacramento
+            </a>
+          </td>
+          <td>
+            salty dick
+          </td>
+        </tr>
+        <tr
+          key="144"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/61425797/banks-of-the-sacramento"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              banks of the sacramento
+            </a>
+          </td>
+          <td>
+            foc'sle singers
+          </td>
+        </tr>
+        <tr
+          key="145"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184374050343/al55f0963ca5f39075733f4979/t55f0963ea5f39075733f4a0f"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            patrick storedahl
+          </td>
+        </tr>
+        <tr
+          key="146"
+        >
+          <td>
+            <a
+              href="http://genius.com/cypress-hill-money-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              money
+            </a>
+          </td>
+          <td>
+            cypress hill
+          </td>
+        </tr>
+        <tr
+          key="147"
+        >
+          <td>
+            <a
+              href="http://www.lyricsmania.com/sac_kingz_lyrics_t-nutty.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sac kingz
+            </a>
+          </td>
+          <td>
+            t-nutty
+          </td>
+        </tr>
+        <tr
+          key="148"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184373709512/al55d6d1e313b521ef227b7199/t55d6d1e413b521ef227b71c9"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              american river
+            </a>
+          </td>
+          <td>
+            jonathan elias
+          </td>
+        </tr>
+        <tr
+          key="149"
+        >
+          <td>
+            <a
+              href="http://genius.com/phish-california-love-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              california love
+            </a>
+          </td>
+          <td>
+            phish
+          </td>
+        </tr>
+        <tr
+          key="150"
+        >
+          <td>
+            <a
+              href="http://genius.com/yukmouth-ya-boy-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              ya boy
+            </a>
+          </td>
+          <td>
+            yukmouth, ampichino, devin the dude
+          </td>
+        </tr>
+        <tr
+          key="151"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/50cent/followmegangster.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              follow me gangster
+            </a>
+          </td>
+          <td>
+            50 cent, g-unit
+          </td>
+        </tr>
+        <tr
+          key="152"
+        >
+          <td>
+            <a
+              href="http://www.metrolyrics.com/e-pugno-limpio-lyrics-hoods.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              e pugno limpio
+            </a>
+          </td>
+          <td>
+            hoods
+          </td>
+        </tr>
+        <tr
+          key="153"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/mclars/humphreythewhale.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              humphrey the whale
+            </a>
+          </td>
+          <td>
+            mc lars
+          </td>
+        </tr>
+        <tr
+          key="154"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/spydiesbirth.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              spydie's birth
+            </a>
+          </td>
+          <td>
+            brotha lynch hung
+          </td>
+        </tr>
+        <tr
+          key="155"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/mymindaintright.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              my mind ain't right
+            </a>
+          </td>
+          <td>
+            brotha lynch hung
+          </td>
+        </tr>
+        <tr
+          key="156"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/iwentfrom.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              i went from
+            </a>
+          </td>
+          <td>
+            brotha lynch hung
+          </td>
+        </tr>
+        <tr
+          key="157"
+        >
+          <td>
+            <a
+              href="https://www.amazon.com/gone-wanderin-jackie-greene/dp/b00006l3qr"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              freeport boulevard (sacramento)
+            </a>
+          </td>
+          <td>
+            jackie greene
+          </td>
+        </tr>
+        <tr
+          key="158"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sound of sacramento
+            </a>
+          </td>
+          <td>
+            another damn disappointment (a.d.d.)
+          </td>
+        </tr>
+        <tr
+          key="159"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/58077358/sacramento"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            tony scherr
+          </td>
+        </tr>
+        <tr
+          key="160"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/djquik/ohwell.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              oh well
+            </a>
+          </td>
+          <td>
+            dj quik, will hudspeth
+          </td>
+        </tr>
+        <tr
+          key="161"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184372152872/al56017f4ce7c622686ab4fa72/t56017f4ee7c622686ab4fb2f"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            the cornbugs
+          </td>
+        </tr>
+        <tr
+          key="162"
+        >
+          <td>
+            <a
+              href="http://genius.com/camp-lo-gotcha-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              gotcha
+            </a>
+          </td>
+          <td>
+            camp lo
+          </td>
+        </tr>
+        <tr
+          key="163"
+        >
+          <td>
+            <a
+              href="https://sonichits.com/video/thirstin_howl_iii/stole_(feat._rack-lo,_big_boo_%26_shillz_da_realz)"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              stole
+            </a>
+          </td>
+          <td>
+            thirstin howl iii, big boo, rack-lo, shillz da realz
+          </td>
+        </tr>
+        <tr
+          key="164"
+        >
+          <td>
+            <a
+              href="http://genius.com/hollow-tip-keep-ballin-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              keep ballin
+            </a>
+          </td>
+          <td>
+            hollow tip
+          </td>
+        </tr>
+        <tr
+          key="165"
+        >
+          <td>
+            <a
+              href="http://www.letssingit.com/bill-morrissey-lyrics-harry-s-last-call-nrqzfbq"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              harry's last call
+            </a>
+          </td>
+          <td>
+            bill morrissey
+          </td>
+        </tr>
+        <tr
+          key="166"
+        >
+          <td>
+            <a
+              href="http://genius.com/x-raided-macaframa-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              macaframa
+            </a>
+          </td>
+          <td>
+            x-raided (a.k.a nefarious)
+          </td>
+        </tr>
+        <tr
+          key="167"
+        >
+          <td>
+            <a
+              href="http://genius.com/cake-long-line-of-cars-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              long line of cars
+            </a>
+          </td>
+          <td>
+            cake
+          </td>
+        </tr>
+        <tr
+          key="168"
+        >
+          <td>
+            <a
+              href="http://genius.com/brotha-lynch-hung-187-on-a-hook-feat-tech-n9ne-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              187 on a hook
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, c-bo, tech n9ne
+          </td>
+        </tr>
+        <tr
+          key="169"
+        >
+          <td>
+            <a
+              href="http://genius.com/bad-azz-we-from-the-lbc-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              we from the lbc
+            </a>
+          </td>
+          <td>
+            bad azz, snoop dogg
+          </td>
+        </tr>
+        <tr
+          key="170"
+        >
+          <td>
+            <a
+              href="http://genius.com/x-raided-fuccyoutoo-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              fuccyoutoo
+            </a>
+          </td>
+          <td>
+            x-raided (a.k.a nefarious)
+          </td>
+        </tr>
+        <tr
+          key="171"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/ludacris/crybabiesohno.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              cry babies (oh no)
+            </a>
+          </td>
+          <td>
+            ludacris
+          </td>
+        </tr>
+        <tr
+          key="172"
+        >
+          <td>
+            <a
+              href="http://genius.com/hollow-tip-4-my-enemies-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              4 my enemies
+            </a>
+          </td>
+          <td>
+            hollow tip
+          </td>
+        </tr>
+        <tr
+          key="173"
+        >
+          <td>
+            <a
+              href="http://genius.com/brotha-lynch-hung-24-gone-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              24 gone
+            </a>
+          </td>
+          <td>
+            brotha lynch hung
+          </td>
+        </tr>
+        <tr
+          key="174"
+        >
+          <td>
+            <a
+              href="http://genius.com/cake-arco-arena-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              arco arena
+            </a>
+          </td>
+          <td>
+            cake
+          </td>
+        </tr>
+        <tr
+          key="175"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/ludacris/areacodes.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              area codes
+            </a>
+          </td>
+          <td>
+            ludacris, nate dogg
+          </td>
+        </tr>
+        <tr
+          key="176"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/doggmarket.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              dogg market
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, snoop dogg
+          </td>
+        </tr>
+        <tr
+          key="177"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/47010267/the-old-navy"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            us navy sea chanter chorus
+          </td>
+        </tr>
+        <tr
+          key="178"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184373504301/al56012929e7c622686a802440/t5601292ae7c622686a8024f8"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              to sacramento
+            </a>
+          </td>
+          <td>
+            mary murphy
+          </td>
+        </tr>
+        <tr
+          key="179"
+        >
+          <td>
+            <a
+              href="http://genius.com/c-bo-enemy-of-the-state-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              enemy of the state
+            </a>
+          </td>
+          <td>
+            c-bo
+          </td>
+        </tr>
+        <tr
+          key="180"
+        >
+          <td>
+            <a
+              href="http://genius.com/x-raided-sac-a-indo-where-im-from-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sac-a-indo (where i'm from)
+            </a>
+          </td>
+          <td>
+            x-raided (a.k.a nefarious)
+          </td>
+        </tr>
+        <tr
+          key="181"
+        >
+          <td>
+            <a
+              href="http://genius.com/x-raided-use-yo-nina-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              use yo nina
+            </a>
+          </td>
+          <td>
+            x-raided (a.k.a nefarious)
+          </td>
+        </tr>
+        <tr
+          key="182"
+        >
+          <td>
+            <a
+              href="http://genius.com/x-raided-most-wanted-who-they-wanna-kill-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              most wanted (who they wanna kill)
+            </a>
+          </td>
+          <td>
+            x-raided (a.k.a nefarious)
+          </td>
+        </tr>
+        <tr
+          key="183"
+        >
+          <td>
+            <a
+              href="http://genius.com/x-raided-aka-nefarious-jealous-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              jealous
+            </a>
+          </td>
+          <td>
+            x-raided (a.k.a nefarious)
+          </td>
+        </tr>
+        <tr
+          key="184"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/onetime.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              one time
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, bad azz
+          </td>
+        </tr>
+        <tr
+          key="185"
+        >
+          <td>
+            <a
+              href="http://genius.com/x-raided-everybody-killa-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              everybody killa
+            </a>
+          </td>
+          <td>
+            x-raided (a.k.a nefarious)
+          </td>
+        </tr>
+        <tr
+          key="186"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/limpbizkit/showmewhatyougot.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              show me what you got
+            </a>
+          </td>
+          <td>
+            limp bizkit
+          </td>
+        </tr>
+        <tr
+          key="187"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/techn9ne/planetrock2koriginalversion.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              planet rock 2k (original version)
+            </a>
+          </td>
+          <td>
+            tech n9ne
+          </td>
+        </tr>
+        <tr
+          key="188"
+        >
+          <td>
+            <a
+              href="http://genius.com/the-cuf-sacramento-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento
+            </a>
+          </td>
+          <td>
+            the cuf
+          </td>
+        </tr>
+        <tr
+          key="189"
+        >
+          <td>
+            <a
+              href="http://genius.com/spice-1-killerfornia-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              killerfornia
+            </a>
+          </td>
+          <td>
+            spice 1
+          </td>
+        </tr>
+        <tr
+          key="190"
+        >
+          <td>
+            <a
+              href="http://genius.com/raekwon-forecast-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              forecast
+            </a>
+          </td>
+          <td>
+            raekwon
+          </td>
+        </tr>
+        <tr
+          key="191"
+        >
+          <td>
+            <a
+              href="http://genius.com/x-raided-who-is-yall-niggas-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              who is y'all niggas
+            </a>
+          </td>
+          <td>
+            x-raided (a.k.a nefarious)
+          </td>
+        </tr>
+        <tr
+          key="192"
+        >
+          <td>
+            <a
+              href="http://genius.com/x-raided-spitten-venom-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              spitten venom
+            </a>
+          </td>
+          <td>
+            x-raided (a.k.a nefarious)
+          </td>
+        </tr>
+        <tr
+          key="193"
+        >
+          <td>
+            <a
+              href="https://play.google.com/music/preview/tbdz7ccxpyaqqh5k6k45d2cbqga?lyrics=1&utm_source=google&utm_medium=search&utm_campaign=lyrics&pcampaignid=kp-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              the pony express
+            </a>
+          </td>
+          <td>
+            tex ritter
+          </td>
+        </tr>
+        <tr
+          key="194"
+        >
+          <td>
+            <a
+              href="https://www.spotify.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sac-town 4 life
+            </a>
+          </td>
+          <td>
+            2 dope
+          </td>
+        </tr>
+        <tr
+          key="195"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/59596686/sutters-fort"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sutter's fort
+            </a>
+          </td>
+          <td>
+            filibuster
+          </td>
+        </tr>
+        <tr
+          key="196"
+        >
+          <td>
+            <a
+              href="http://genius.com/lunasicc-can-you-hang-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              can you hang?
+            </a>
+          </td>
+          <td>
+            lunasicc, ager main, killa tay
+          </td>
+        </tr>
+        <tr
+          key="197"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/e40/fromthegroundup.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              from the ground up
+            </a>
+          </td>
+          <td>
+            e-40, k-ci and jojo, too $hort
+          </td>
+        </tr>
+        <tr
+          key="198"
+        >
+          <td>
+            <a
+              href="http://genius.com/lunasicc-pay-style-flows-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              pay style flows
+            </a>
+          </td>
+          <td>
+            lunasicc
+          </td>
+        </tr>
+        <tr
+          key="199"
+        >
+          <td>
+            <a
+              href="http://genius.com/c-bo-40-and-c-bo-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              40 & c-bo
+            </a>
+          </td>
+          <td>
+            e-40, c-bo
+          </td>
+        </tr>
+        <tr
+          key="200"
+        >
+          <td>
+            <a
+              href="http://genius.com/beastie-boys-three-mcs-and-one-dj-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              three mc's and one dj
+            </a>
+          </td>
+          <td>
+            beastie boys
+          </td>
+        </tr>
+        <tr
+          key="201"
+        >
+          <td>
+            <a
+              href="http://genius.com/hollow-tip-blow-up-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              blow up
+            </a>
+          </td>
+          <td>
+            hollow tip
+          </td>
+        </tr>
+        <tr
+          key="202"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/beastieboys/dedication.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              dedication
+            </a>
+          </td>
+          <td>
+            beastie boys
+          </td>
+        </tr>
+        <tr
+          key="203"
+        >
+          <td>
+            <a
+              href="http://genius.com/lunasicc-strictly-business-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              strictly business
+            </a>
+          </td>
+          <td>
+            lunasicc, kill tay
+          </td>
+        </tr>
+        <tr
+          key="204"
+        >
+          <td>
+            <a
+              href="http://genius.com/c-bo-major-pain-and-bossalini-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              major pain & mr. bossalini
+            </a>
+          </td>
+          <td>
+            c-bo, spice 1
+          </td>
+        </tr>
+        <tr
+          key="205"
+        >
+          <td>
+            <a
+              href="http://genius.com/ras-kass-ghetto-fabulous-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              ghetto fabulous
+            </a>
+          </td>
+          <td>
+            ras kass, dr. dre, mack 10
+          </td>
+        </tr>
+        <tr
+          key="206"
+        >
+          <td>
+            <a
+              href="http://genius.com/hussein-fatal-the-world-is-changing-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              the world is changing
+            </a>
+          </td>
+          <td>
+            hussein fatal
+          </td>
+        </tr>
+        <tr
+          key="207"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/sublime/thanksdub.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              thanx dub
+            </a>
+          </td>
+          <td>
+            sublime
+          </td>
+        </tr>
+        <tr
+          key="208"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/situation.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              situation
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, e-40, first degree, twamp dog
+          </td>
+        </tr>
+        <tr
+          key="209"
+        >
+          <td>
+            <a
+              href="http://genius.com/tru-there-dey-go-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              there dey go
+            </a>
+          </td>
+          <td>
+            tru
+          </td>
+        </tr>
+        <tr
+          key="210"
+        >
+          <td>
+            <a
+              href="http://genius.com/tru-bad-boyz-on-a-mission-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              bad boyz on a mission
+            </a>
+          </td>
+          <td>
+            tru
+          </td>
+        </tr>
+        <tr
+          key="211"
+        >
+          <td>
+            <a
+              href="http://genius.com/mr-serv-on-throw-ya-city-up-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              throw ya city up
+            </a>
+          </td>
+          <td>
+            mr. serv-on
+          </td>
+        </tr>
+        <tr
+          key="212"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/feelmynaturerize.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              feel my nature rize
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, swartzaniggaz
+          </td>
+        </tr>
+        <tr
+          key="213"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/tribecalledquest/motivators.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              motivators
+            </a>
+          </td>
+          <td>
+            a tribe called quest
+          </td>
+        </tr>
+        <tr
+          key="214"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/bloodhoundgang/goingnowhereslow.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              going nowhere slow
+            </a>
+          </td>
+          <td>
+            bloodhound gang
+          </td>
+        </tr>
+        <tr
+          key="215"
+        >
+          <td>
+            <a
+              href="http://genius.com/rappin-4-tay-new-trump-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              new trump
+            </a>
+          </td>
+          <td>
+            rappin' 4 tay, lil fly
+          </td>
+        </tr>
+        <tr
+          key="216"
+        >
+          <td>
+            <a
+              href="http://genius.com/fifteen-924-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              924
+            </a>
+          </td>
+          <td>
+            fifteen
+          </td>
+        </tr>
+        <tr
+          key="217"
+        >
+          <td>
+            <a
+              href="http://www.metrolyrics.com/takin-no-shortz-lyrics-hollow-tip.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              takin' no shortz
+            </a>
+          </td>
+          <td>
+            hallow tip
+          </td>
+        </tr>
+        <tr
+          key="218"
+        >
+          <td>
+            <a
+              href="http://genius.com/black-wine-get-up-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              get up
+            </a>
+          </td>
+          <td>
+            black wine
+          </td>
+        </tr>
+        <tr
+          key="219"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brucespringsteen/thenewtimer.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              the new timer
+            </a>
+          </td>
+          <td>
+            bruce springsteen
+          </td>
+        </tr>
+        <tr
+          key="220"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brianwilson/palmtreeandmoon.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              palm tree and moon
+            </a>
+          </td>
+          <td>
+            brian wilson
+          </td>
+        </tr>
+        <tr
+          key="221"
+        >
+          <td>
+            <a
+              href="http://tidido.com/a35184372155051/al5432a79f196dee63468d1f84/t5433f3f8196dee9e149ad8f5"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              in sacramento
+            </a>
+          </td>
+          <td>
+            gg anderson
+          </td>
+        </tr>
+        <tr
+          key="222"
+        >
+          <td>
+            <a
+              href="http://genius.com/strictly-inc-strictly-incognito-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              strictly incognito
+            </a>
+          </td>
+          <td>
+            strictly inc.
+          </td>
+        </tr>
+        <tr
+          key="223"
+        >
+          <td>
+            <a
+              href="http://genius.com/miguel-mateos-voy-con-quien-soy-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              voy con quien soy
+            </a>
+          </td>
+          <td>
+            miguel mateos
+          </td>
+        </tr>
+        <tr
+          key="224"
+        >
+          <td>
+            <a
+              href="http://genius.com/mariah-carey-fantasy-bad-boy-remix-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              fantasy remix
+            </a>
+          </td>
+          <td>
+            mariah carey, ol' dirty bastard
+          </td>
+        </tr>
+        <tr
+          key="225"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/2pac/californialove.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              california love
+            </a>
+          </td>
+          <td>
+            2pac, dr. dre
+          </td>
+        </tr>
+        <tr
+          key="226"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/brothalynchhung/locc2dabrain.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              locc 2 da brain
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, baby reg, baby x, big dan, mr. doc
+          </td>
+        </tr>
+        <tr
+          key="227"
+        >
+          <td>
+            <a
+              href="http://genius.com/crips-roll-call-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              roll call
+            </a>
+          </td>
+          <td>
+            nationwide rip ridaz
+          </td>
+        </tr>
+        <tr
+          key="228"
+        >
+          <td>
+            <a
+              href="http://genius.com/brotha-lynch-hung-welcome-2-your-own-death-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              welcome to your own death
+            </a>
+          </td>
+          <td>
+            brotha lynch hung
+          </td>
+        </tr>
+        <tr
+          key="229"
+        >
+          <td>
+            <a
+              href="http://genius.com/brotha-lynch-hung-deep-down-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              deep down
+            </a>
+          </td>
+          <td>
+            brotha lynch hung, mr. doctor
+          </td>
+        </tr>
+        <tr
+          key="230"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/pavement/unfair.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              unfair
+            </a>
+          </td>
+          <td>
+            pavement
+          </td>
+        </tr>
+        <tr
+          key="231"
+        >
+          <td>
+            <a
+              href="https://play.google.com/music/preview/tlvm7qlcjr4b4qurxgwodfb7wz4?lyrics=1&utm_source=google&utm_medium=search&utm_campaign=lyrics&pcampaignid=kp-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              king of california
+            </a>
+          </td>
+          <td>
+            dave alvin
+          </td>
+        </tr>
+        <tr
+          key="232"
+        >
+          <td>
+            <a
+              href="https://play.google.com/music/preview/teyyq5m6rq4zwrt53nmnx4ju73i?lyrics=1&utm_source=google&utm_medium=search&utm_campaign=lyrics&pcampaignid=kp-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              vila do sossego
+            </a>
+          </td>
+          <td>
+            ze ramalho
+          </td>
+        </tr>
+        <tr
+          key="233"
+        >
+          <td>
+            <a
+              href="http://www.shazam.com/track/60724365/sacramento-jubilee"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento jubilee
+            </a>
+          </td>
+          <td>
+            mr. jack daniel's original silver cornet band
+          </td>
+        </tr>
+        <tr
+          key="234"
+        >
+          <td>
+            <a
+              href="http://genius.com/the-click-mr-flamboyant-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              mr. flamboyant
+            </a>
+          </td>
+          <td>
+            the click
+          </td>
+        </tr>
+        <tr
+          key="235"
+        >
+          <td>
+            <a
+              href="http://genius.com/rappin-4-tay-playaz-club-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              playaz club
+            </a>
+          </td>
+          <td>
+            rappin' 4 tay
+          </td>
+        </tr>
+        <tr
+          key="236"
+        >
+          <td>
+            <a
+              href="http://www.songlyrics.com/animaniacs/wakko-s-america-lyrics/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              wakko's america
+            </a>
+          </td>
+          <td>
+            animaniacs
+          </td>
+        </tr>
+        <tr
+          key="237"
+        >
+          <td>
+            <a
+              href="http://www.metrolyrics.com/driving-aloud-radio-storm-lyrics-hitchcock-robyn.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              driving aloud (radio storm)
+            </a>
+          </td>
+          <td>
+            robyn hitchcock
+          </td>
+        </tr>
+        <tr
+          key="238"
+        >
+          <td>
+            <a
+              href="http://genius.com/mdc-welfare-line-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              welfare line
+            </a>
+          </td>
+          <td>
+            mdc
+          </td>
+        </tr>
+        <tr
+          key="239"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/sirmixalot/arappersreputation.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              a rapper's reputation
+            </a>
+          </td>
+          <td>
+            sir mix-a-lot
+          </td>
+        </tr>
+        <tr
+          key="240"
+        >
+          <td>
+            <a
+              href="http://genius.com/x-raided-shoot-cha-in-a-minute-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              shoot cha in a minute
+            </a>
+          </td>
+          <td>
+            x-raided (a.k.a nefarious)
+          </td>
+        </tr>
+        <tr
+          key="241"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/toohort/shortdogsinthehouse.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              short dog's in the house
+            </a>
+          </td>
+          <td>
+            too $hort
+          </td>
+        </tr>
+        <tr
+          key="242"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/deadkennedys/achildandhislawnmower.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              a child and his lawnmower
+            </a>
+          </td>
+          <td>
+            dead kennedys
+          </td>
+        </tr>
+        <tr
+          key="243"
+        >
+          <td>
+            <a
+              href="http://www.azlyrics.com/lyrics/alabama/ponyexpress.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              pony express
+            </a>
+          </td>
+          <td>
+            alabama
+          </td>
+        </tr>
+        <tr
+          key="244"
+        >
+          <td>
+            <a
+              href="http://genius.com/3086887"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              i've tried subtlety
+            </a>
+          </td>
+          <td>
+            game theory
+          </td>
+        </tr>
+        <tr
+          key="245"
+        >
+          <td>
+            <a
+              href="http://www.metrolyrics.com/ballad-of-jerry-curlan-lyrics-angry-samoans.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              ballad of jerry curlan
+            </a>
+          </td>
+          <td>
+            angry samoans
+          </td>
+        </tr>
+        <tr
+          key="246"
+        >
+          <td>
+            <a
+              href="http://www.lyricsfreak.com/c/chuck+berry/california_20514596.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              california love
+            </a>
+          </td>
+          <td>
+            chuck berry
+          </td>
+        </tr>
+        <tr
+          key="247"
+        >
+          <td>
+            <a
+              href="http://www.metrolyrics.com/yellow-roses-on-her-gown-lyrics-johnny-mathis.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              yellow roses on her gown
+            </a>
+          </td>
+          <td>
+            johnny mathis
+          </td>
+        </tr>
+        <tr
+          key="248"
+        >
+          <td>
+            <a
+              href="http://genius.com/middle-of-the-road-sacramento-a-wonderful-town-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              sacramento - a wonderful town
+            </a>
+          </td>
+          <td>
+            middle of the road
+          </td>
+        </tr>
+        <tr
+          key="249"
+        >
+          <td>
+            <a
+              href="http://www.metrolyrics.com/santa-monica-sunshine-lyrics-the-sweet.html"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              santa monica sunshine
+            </a>
+          </td>
+          <td>
+            jose felician, swwet
+          </td>
+        </tr>
+        <tr
+          key="250"
+        >
+          <td>
+            <a
+              href="http://genius.com/johnny-cash-folsom-prison-blues-lyrics"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              folsom prison blues
+            </a>
+          </td>
+          <td>
+            johnny cash
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+`;

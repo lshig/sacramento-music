@@ -3,17 +3,9 @@ import options from '../data/songs.js';
 
 export default function Table() {
   let tableBody = null;
-  tableBody = options.data.reverse().map(song => {
+  tableBody = options.data.reverse().map((song, key) => {
     return (
-      <tr
-        key={
-          song.title.replace(/[^0-9a-z]/gi, '') +
-          '_' +
-          song.artist.replace(/[^0-9a-z]/gi, '') +
-          '_' +
-          song.year
-        }
-      >
+      <tr key={key}>
         <td>
           <a
             href={song.source}

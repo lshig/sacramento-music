@@ -1,0 +1,1155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Charts basic renders 1`] = `
+<section
+  className="data-vis"
+>
+  <div
+    className="chart"
+    id="source-breakdown"
+    key="0"
+  >
+    <div
+      className="chart-title-wrapper"
+    >
+      <h1
+        className="chart-title-header"
+      >
+        Lyric Sources Breakdown
+      </h1>
+    </div>
+    <[object Object]
+      config={
+        Object {
+          "chart": Object {
+            "height": "450",
+            "spacingBottom": 0,
+            "spacingLeft": 0,
+            "spacingRight": 0,
+            "spacingTop": 0,
+            "type": "pie",
+          },
+          "credits": Object {
+            "enabled": false,
+          },
+          "legend": Object {
+            "align": "center",
+            "layout": "vertical",
+            "verticalAlign": "bottom",
+          },
+          "plotOptions": Object {
+            "pie": Object {
+              "allowPointSelect": true,
+              "cursor": "pointer",
+              "dataLabels": Object {
+                "enabled": false,
+              },
+              "shadow": false,
+              "showInLegend": true,
+              "size": "100%",
+            },
+            "series": Object {
+              "states": Object {
+                "hover": Object {
+                  "enabled": true,
+                  "halo": Object {
+                    "size": 0,
+                  },
+                },
+              },
+            },
+          },
+          "series": Array [
+            Object {
+              "colorByPoint": true,
+              "data": Array [
+                Object {
+                  "color": "#B0BEC5",
+                  "name": "GENIUS.COM",
+                  "selected": true,
+                  "sliced": true,
+                  "y": 79,
+                },
+                Object {
+                  "color": "#607D8B",
+                  "name": "AZLYRICS.COM",
+                  "y": 74,
+                },
+                Object {
+                  "color": "#03A9F4",
+                  "name": "SPOTIFY.COM",
+                  "y": 19,
+                },
+                Object {
+                  "color": "#01579B",
+                  "name": "OTHER: < 5 SONGS",
+                  "y": 19,
+                },
+                Object {
+                  "color": "#009688",
+                  "name": "TIDIDO.COM",
+                  "y": 13,
+                },
+                Object {
+                  "color": "#80CBC4",
+                  "name": "SHAZAM.COM",
+                  "y": 13,
+                },
+                Object {
+                  "color": "#7CB342",
+                  "name": "METROLYRICS.COM",
+                  "y": 11,
+                },
+                Object {
+                  "color": "#64DD17",
+                  "name": "SOUNDCLOUD.COM",
+                  "y": 8,
+                },
+                Object {
+                  "color": "#FFF176",
+                  "name": "YOUTUBE.COM",
+                  "y": 8,
+                },
+                Object {
+                  "color": "#FFCA28",
+                  "name": "BANDCAMP.COM",
+                  "y": 7,
+                },
+              ],
+              "name": "Brands",
+              "startAngle": 100,
+            },
+          ],
+          "subtitle": Object {
+            "text": null,
+          },
+          "title": Object {
+            "text": null,
+          },
+          "tooltip": Object {
+            "crosshairs": false,
+            "pointFormat": "<b>{point.percentage:.1f}%</b><br><b>{point.y} songs</b> of {point.total}",
+          },
+        }
+      }
+    />
+    <div
+      className="chart-info-collapsible-wrapper"
+    >
+      <ul
+        className="collapsible"
+        data-collapsible="expandable"
+      >
+        <li>
+          <div
+            className="collapsible-header active"
+          >
+            <i
+              className="fa fa-info-circle"
+            />
+            Graph Information
+          </div>
+          <div
+            className="collapsible-body"
+          >
+            <pre
+              className="pre-wrap"
+            >
+              This data required that I collect the link of each song and run a count on how many songs came from each source. As the results show, Genius and AzLyrics are the most effective for scraping lyrics. 
+            </pre>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div
+    className="chart"
+    id="time-vs-frequency"
+    key="1"
+  >
+    <div
+      className="chart-title-wrapper"
+    >
+      <h1
+        className="chart-title-header"
+      >
+        Frequency of Shout Out Songs Over Time
+      </h1>
+    </div>
+    <[object Object]
+      config={
+        Object {
+          "chart": Object {
+            "type": "spline",
+          },
+          "credits": Object {
+            "enabled": false,
+          },
+          "dataLabels": Object {
+            "enabled": false,
+          },
+          "legend": Object {
+            "enabled": false,
+          },
+          "plotOptions": Object {
+            "series": Object {
+              "states": Object {
+                "hover": Object {
+                  "enabled": true,
+                  "halo": Object {
+                    "size": 0,
+                  },
+                },
+              },
+            },
+            "spline": Object {
+              "marker": Object {
+                "enabled": false,
+              },
+            },
+          },
+          "series": Array [
+            Object {
+              "color": "#ffffff",
+              "data": Array [
+                Array [
+                  1957,
+                  1,
+                ],
+                Array [
+                  1958,
+                  0,
+                ],
+                Array [
+                  1959,
+                  0,
+                ],
+                Array [
+                  1960,
+                  0,
+                ],
+                Array [
+                  1961,
+                  0,
+                ],
+                Array [
+                  1962,
+                  0,
+                ],
+                Array [
+                  1963,
+                  0,
+                ],
+                Array [
+                  1964,
+                  0,
+                ],
+                Array [
+                  1965,
+                  0,
+                ],
+                Array [
+                  1966,
+                  0,
+                ],
+                Array [
+                  1967,
+                  0,
+                ],
+                Array [
+                  1968,
+                  0,
+                ],
+                Array [
+                  1969,
+                  0,
+                ],
+                Array [
+                  1970,
+                  0,
+                ],
+                Array [
+                  1971,
+                  1,
+                ],
+                Array [
+                  1972,
+                  1,
+                ],
+                Array [
+                  1973,
+                  0,
+                ],
+                Array [
+                  1974,
+                  0,
+                ],
+                Array [
+                  1975,
+                  0,
+                ],
+                Array [
+                  1976,
+                  1,
+                ],
+                Array [
+                  1977,
+                  0,
+                ],
+                Array [
+                  1978,
+                  0,
+                ],
+                Array [
+                  1979,
+                  1,
+                ],
+                Array [
+                  1980,
+                  0,
+                ],
+                Array [
+                  1981,
+                  0,
+                ],
+                Array [
+                  1982,
+                  1,
+                ],
+                Array [
+                  1983,
+                  0,
+                ],
+                Array [
+                  1984,
+                  0,
+                ],
+                Array [
+                  1985,
+                  1,
+                ],
+                Array [
+                  1986,
+                  1,
+                ],
+                Array [
+                  1987,
+                  1,
+                ],
+                Array [
+                  1988,
+                  0,
+                ],
+                Array [
+                  1989,
+                  0,
+                ],
+                Array [
+                  1990,
+                  1,
+                ],
+                Array [
+                  1991,
+                  0,
+                ],
+                Array [
+                  1992,
+                  2,
+                ],
+                Array [
+                  1993,
+                  3,
+                ],
+                Array [
+                  1994,
+                  6,
+                ],
+                Array [
+                  1995,
+                  12,
+                ],
+                Array [
+                  1996,
+                  5,
+                ],
+                Array [
+                  1997,
+                  6,
+                ],
+                Array [
+                  1998,
+                  13,
+                ],
+                Array [
+                  1999,
+                  8,
+                ],
+                Array [
+                  2000,
+                  10,
+                ],
+                Array [
+                  2001,
+                  12,
+                ],
+                Array [
+                  2002,
+                  7,
+                ],
+                Array [
+                  2003,
+                  8,
+                ],
+                Array [
+                  2004,
+                  7,
+                ],
+                Array [
+                  2005,
+                  6,
+                ],
+                Array [
+                  2006,
+                  6,
+                ],
+                Array [
+                  2007,
+                  10,
+                ],
+                Array [
+                  2008,
+                  9,
+                ],
+                Array [
+                  2009,
+                  5,
+                ],
+                Array [
+                  2010,
+                  9,
+                ],
+                Array [
+                  2011,
+                  12,
+                ],
+                Array [
+                  2012,
+                  11,
+                ],
+                Array [
+                  2013,
+                  18,
+                ],
+                Array [
+                  2014,
+                  9,
+                ],
+                Array [
+                  2015,
+                  35,
+                ],
+                Array [
+                  2016,
+                  12,
+                ],
+              ],
+              "name": "Year",
+            },
+          ],
+          "subtitle": Object {
+            "text": null,
+          },
+          "title": Object {
+            "text": null,
+          },
+          "tooltip": Object {
+            "animation": false,
+            "crosshairs": true,
+            "pointFormat": "<b>{point.y} songs</b> of 251",
+            "shadow": false,
+          },
+          "xAxis": Object {
+            "crosshair": Object {
+              "color": "#A0A0A3",
+              "width": 1,
+            },
+            "type": "category",
+          },
+          "yAxis": Object {
+            "title": Object {
+              "text": "Number of Songs",
+            },
+          },
+        }
+      }
+    />
+    <div
+      className="chart-info-collapsible-wrapper"
+    >
+      <ul
+        className="collapsible"
+        data-collapsible="expandable"
+      >
+        <li>
+          <div
+            className="collapsible-header active"
+          >
+            <i
+              className="fa fa-info-circle"
+            />
+            Graph Information
+          </div>
+          <div
+            className="collapsible-body"
+          >
+            <pre
+              className="pre-wrap"
+            >
+              This data required that I collect the year of each song and run a count on how many songs correspond to the year released. None of the lyric sources made it easy to date when these songs were first released. Accuracy is based on what I could find on Google, a lot of the years found were manual look-ups. Also note, I collected data up until mid-2016, the data for that year may be incomplete.
+            </pre>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div
+    className="chart"
+    id="category-breakdown"
+    key="2"
+  >
+    <div
+      className="chart-title-wrapper"
+    >
+      <h1
+        className="chart-title-header"
+      >
+        Shout Out Word Category Breakdown
+      </h1>
+    </div>
+    <[object Object]
+      config={
+        Object {
+          "chart": Object {
+            "height": "410",
+            "spacingBottom": 0,
+            "spacingLeft": 0,
+            "spacingRight": 0,
+            "spacingTop": 0,
+            "type": "pie",
+          },
+          "credits": Object {
+            "enabled": false,
+          },
+          "legend": Object {
+            "align": "center",
+            "layout": "vertical",
+            "verticalAlign": "bottom",
+          },
+          "plotOptions": Object {
+            "pie": Object {
+              "allowPointSelect": true,
+              "cursor": "pointer",
+              "dataLabels": Object {
+                "enabled": false,
+              },
+              "shadow": false,
+              "showInLegend": true,
+              "size": "100%",
+            },
+            "series": Object {
+              "states": Object {
+                "hover": Object {
+                  "enabled": true,
+                  "halo": Object {
+                    "size": 0,
+                  },
+                },
+              },
+            },
+          },
+          "series": Array [
+            Object {
+              "colorByPoint": true,
+              "data": Array [
+                Object {
+                  "color": "#5a2b81",
+                  "name": "CITY/COUNTY",
+                  "selected": true,
+                  "sliced": true,
+                  "y": 253,
+                },
+                Object {
+                  "color": "#B388FF",
+                  "name": "STREET/NEIGHBORHOOD",
+                  "y": 44,
+                },
+                Object {
+                  "color": "#D1C4E9",
+                  "name": "SPORTS",
+                  "y": 23,
+                },
+                Object {
+                  "color": "#EEEEEE",
+                  "name": "EDUCATION",
+                  "y": 10,
+                },
+                Object {
+                  "color": "#BDBDBD",
+                  "name": "LANDMARKS",
+                  "y": 5,
+                },
+                Object {
+                  "color": "#757575",
+                  "name": "OTHER",
+                  "y": 4,
+                },
+                Object {
+                  "color": "#000000",
+                  "name": "RIVERS",
+                  "y": 2,
+                },
+              ],
+              "name": "Brands",
+            },
+          ],
+          "subtitle": Object {
+            "text": null,
+          },
+          "title": Object {
+            "text": null,
+          },
+          "tooltip": Object {
+            "crosshairs": false,
+            "pointFormat": "<b>{point.percentage:.1f}%</b><br><b>{point.y} references</b> of {point.total}<br>from 251 songs",
+          },
+        }
+      }
+    />
+    <div
+      className="chart-info-collapsible-wrapper"
+    >
+      <ul
+        className="collapsible"
+        data-collapsible="expandable"
+      >
+        <li>
+          <div
+            className="collapsible-header active"
+          >
+            <i
+              className="fa fa-info-circle"
+            />
+            Graph Information
+          </div>
+          <div
+            className="collapsible-body"
+          >
+            <pre
+              className="pre-wrap"
+            >
+              This data required that I track every unique Sacramento, CA references per song, sort each reference into a category, and count references per category. Note: a song may name drop multiple references like Sacramento, SacTown, 916, and Kings.
+            </pre>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div
+    className="chart"
+    id="word-vs-frequency"
+    key="3"
+  >
+    <div
+      className="chart-title-wrapper"
+    >
+      <h1
+        className="chart-title-header"
+      >
+        Shout Out Word Frequency
+      </h1>
+    </div>
+    <[object Object]
+      config={
+        Object {
+          "chart": Object {
+            "height": "700",
+            "type": "bar",
+          },
+          "credits": Object {
+            "enabled": false,
+          },
+          "dataLabels": Object {
+            "align": "left",
+            "enabled": true,
+            "format": "{point.y}",
+          },
+          "legend": Object {
+            "layout": "horizontal",
+            "verticalAlign": "bottom",
+          },
+          "plotOptions": Object {
+            "bar": Object {
+              "cursor": "pointer",
+              "stacking": "normal",
+            },
+            "series": Object {
+              "states": Object {
+                "hover": Object {
+                  "enabled": true,
+                  "halo": Object {
+                    "size": 0,
+                  },
+                },
+              },
+            },
+          },
+          "series": Array [
+            Object {
+              "color": "#5a2b81",
+              "data": Array [
+                Object {
+                  "x": 0,
+                  "y": 144,
+                },
+                Object {
+                  "x": 1,
+                  "y": 52,
+                },
+                Object {
+                  "x": 2,
+                  "y": 28,
+                },
+                Object {
+                  "x": 3,
+                  "y": 12,
+                },
+                Object {
+                  "x": 6,
+                  "y": 4,
+                },
+                Object {
+                  "x": 10,
+                  "y": 4,
+                },
+                Object {
+                  "x": 17,
+                  "y": 2,
+                },
+                Object {
+                  "x": 19,
+                  "y": 2,
+                },
+                Object {
+                  "x": 24,
+                  "y": 2,
+                },
+              ],
+              "legendIndex": 0,
+              "name": "CITY/COUNTY",
+            },
+            Object {
+              "color": "#B388FF",
+              "data": Array [
+                Object {
+                  "x": 7,
+                  "y": 4,
+                },
+                Object {
+                  "x": 8,
+                  "y": 4,
+                },
+                Object {
+                  "x": 11,
+                  "y": 4,
+                },
+                Object {
+                  "x": 12,
+                  "y": 3,
+                },
+                Object {
+                  "x": 14,
+                  "y": 3,
+                },
+                Object {
+                  "x": 20,
+                  "y": 2,
+                },
+                Object {
+                  "x": 21,
+                  "y": 2,
+                },
+                Object {
+                  "x": 22,
+                  "y": 2,
+                },
+                Object {
+                  "x": 23,
+                  "y": 2,
+                },
+              ],
+              "legendIndex": 1,
+              "name": "STREET/NEIGHBORHOOD",
+            },
+            Object {
+              "color": "#D1C4E9",
+              "data": Array [
+                Object {
+                  "x": 4,
+                  "y": 10,
+                },
+                Object {
+                  "x": 5,
+                  "y": 6,
+                },
+                Object {
+                  "x": 9,
+                  "y": 4,
+                },
+                Object {
+                  "x": 16,
+                  "y": 2,
+                },
+              ],
+              "legendIndex": 2,
+              "name": "SPORTS",
+            },
+            Object {
+              "color": "#EEEEEE",
+              "data": Array [
+                Object {
+                  "x": 13,
+                  "y": 3,
+                },
+                Object {
+                  "x": 18,
+                  "y": 2,
+                },
+              ],
+              "legendIndex": 3,
+              "name": "EDUCATION",
+            },
+            Object {
+              "color": "#BDBDBD",
+              "data": Array [
+                Object {
+                  "x": 15,
+                  "y": 2,
+                },
+              ],
+              "legendIndex": 4,
+              "name": "LANDMARKS",
+            },
+          ],
+          "subtitle": Object {
+            "text": null,
+          },
+          "title": Object {
+            "text": null,
+          },
+          "tooltip": Object {
+            "crosshairs": false,
+            "pointFormat": "<b>{point.y}</b> of 341 references<br>from 251 songs",
+          },
+          "xAxis": Object {
+            "categories": Array [
+              "SACRAMENTO",
+              "SACTOWN",
+              "SAC",
+              "916",
+              "KINGS",
+              "SACRAMENTO KINGS",
+              "CITY OF TREES",
+              "FLORIN",
+              "MEADOWVIEW",
+              "SAC KINGS",
+              "SACTO",
+              "SOUTH SAC",
+              "MACK",
+              "SAC CITY",
+              "STOCKTON",
+              "CAPITOL",
+              "DEMARCUS COUSINS",
+              "ELK GROVE",
+              "FLORIN HIGH",
+              "FOLSOM",
+              "FREEPORT",
+              "GREENHAVEN",
+              "OAK PARK",
+              "RUTTER PARK",
+              "TREE CITY",
+            ],
+            "type": "category",
+          },
+          "yAxis": Object {
+            "align": "right",
+            "title": Object {
+              "text": "Number of References",
+            },
+          },
+        }
+      }
+    />
+    <div
+      className="chart-info-collapsible-wrapper"
+    >
+      <ul
+        className="collapsible"
+        data-collapsible="expandable"
+      >
+        <li>
+          <div
+            className="collapsible-header active"
+          >
+            <i
+              className="fa fa-info-circle"
+            />
+            Graph Information
+          </div>
+          <div
+            className="collapsible-body"
+          >
+            <pre
+              className="pre-wrap"
+            >
+              This data is based on unique references per song, not the number of occurances per song. For instance, if a song says Sacramento 8 times and SacTown 5 times, each reference was only counted once. Homophone references were combined; for example, SackTown, Sac-Town, and Sac Town were counted towards SacTown. This chart shows references ranked from most used to least and is limited to references that are mentioned in more than 1 song; it is also color categorized by reference type.
+            </pre>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div
+    className="chart"
+    id="artist-vs-frequency"
+    key="4"
+  >
+    <div
+      className="chart-title-wrapper"
+    >
+      <h1
+        className="chart-title-header"
+      >
+        Frequency of Shout Outs by an Artist
+      </h1>
+    </div>
+    <[object Object]
+      config={
+        Object {
+          "chart": Object {
+            "height": "800",
+            "type": "bar",
+          },
+          "credits": Object {
+            "enabled": false,
+          },
+          "dataLabels": Object {
+            "align": "left",
+            "enabled": true,
+            "format": "{point.y}",
+          },
+          "legend": Object {
+            "enabled": false,
+          },
+          "plotOptions": Object {
+            "series": Object {
+              "states": Object {
+                "hover": Object {
+                  "enabled": true,
+                  "halo": Object {
+                    "size": 0,
+                  },
+                },
+              },
+            },
+          },
+          "series": Array [
+            Object {
+              "color": "#ffffff",
+              "data": Array [
+                Array [
+                  "BROTHA LYNCH HUNG",
+                  18,
+                ],
+                Array [
+                  "CHUUWEE",
+                  14,
+                ],
+                Array [
+                  "X-RAIDED (A.K.A NEFARIOUS)",
+                  10,
+                ],
+                Array [
+                  "SOOSH*E!",
+                  9,
+                ],
+                Array [
+                  "E-40",
+                  7,
+                ],
+                Array [
+                  "TECH N9NE",
+                  5,
+                ],
+                Array [
+                  "VUE PETER",
+                  5,
+                ],
+                Array [
+                  "C-BO",
+                  4,
+                ],
+                Array [
+                  "LUKE TAILOR",
+                  4,
+                ],
+                Array [
+                  "BERNER",
+                  3,
+                ],
+                Array [
+                  "BUENO",
+                  3,
+                ],
+                Array [
+                  "CAKE",
+                  3,
+                ],
+                Array [
+                  "CHARLIE BROWN JR.",
+                  3,
+                ],
+                Array [
+                  "COOLAYCOO",
+                  3,
+                ],
+                Array [
+                  "DIVERZITY",
+                  3,
+                ],
+                Array [
+                  "HOLLOW TIP",
+                  3,
+                ],
+                Array [
+                  "LUDACRIS",
+                  3,
+                ],
+                Array [
+                  "LUNASICC",
+                  3,
+                ],
+                Array [
+                  "SNOOP DOGG",
+                  3,
+                ],
+                Array [
+                  "TOO $HORT",
+                  3,
+                ],
+                Array [
+                  "YOUNG DIZZY",
+                  3,
+                ],
+                Array [
+                  "AMPICHINO",
+                  2,
+                ],
+                Array [
+                  "BAD AZZ",
+                  2,
+                ],
+                Array [
+                  "BEASTIE BOYS",
+                  2,
+                ],
+                Array [
+                  "CIMORELLI",
+                  2,
+                ],
+                Array [
+                  "DR. DRE",
+                  2,
+                ],
+                Array [
+                  "G-MACC",
+                  2,
+                ],
+                Array [
+                  "RAPPIN' 4 TAY",
+                  2,
+                ],
+                Array [
+                  "SPICE 1",
+                  2,
+                ],
+                Array [
+                  "TBONE",
+                  2,
+                ],
+                Array [
+                  "THE GUY WHO SINGS SONGS ABOUT CITIES & TOWNS",
+                  2,
+                ],
+                Array [
+                  "TRU",
+                  2,
+                ],
+              ],
+              "name": "Population",
+            },
+          ],
+          "subtitle": Object {
+            "text": null,
+          },
+          "title": Object {
+            "text": null,
+          },
+          "tooltip": Object {
+            "crosshairs": false,
+            "pointFormat": "<b>{point.y}</b> of 339 artists<br>from 251 songs",
+          },
+          "xAxis": Object {
+            "labels": Object {
+              "align": "right",
+            },
+            "type": "category",
+          },
+          "yAxis": Object {
+            "title": Object {
+              "text": "Number of Songs",
+            },
+          },
+        }
+      }
+    />
+    <div
+      className="chart-info-collapsible-wrapper"
+    >
+      <ul
+        className="collapsible"
+        data-collapsible="expandable"
+      >
+        <li>
+          <div
+            className="collapsible-header active"
+          >
+            <i
+              className="fa fa-info-circle"
+            />
+            Graph Information
+          </div>
+          <div
+            className="collapsible-body"
+          >
+            <pre
+              className="pre-wrap"
+            >
+              This data required that I track the main artists and the featured artists, and count their appearance on 251 songs. This means that all artists are treated equally even if it may not be their song, or they were not the ones to mention the shout out. This chart shows artists who have collaborated on more than 1 song. Important to note that most of the songs are from rappers who have relations to Sacramento, CA.
+            </pre>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+`;

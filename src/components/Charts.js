@@ -1,14 +1,16 @@
 import React from 'react';
 import options from '../data/charts.js';
+import theme from '../data/chart-theme.js';
 
 const ReactHighcharts = require('react-highcharts');
+ReactHighcharts.Highcharts.setOptions(theme);
 
 export default function Chart() {
   return (
     <section className="data-vis">
-      {options.map(item => {
+      {options.map((item, key) => {
         return (
-          <div key={item.container} className="chart" id={item.container}>
+          <div key={key} className="chart" id={item.container}>
             <div className="chart-title-wrapper">
               <h1 className="chart-title-header">{item.title}</h1>
             </div>

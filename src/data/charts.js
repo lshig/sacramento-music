@@ -1,7 +1,5 @@
-import { Highcharts } from 'react-highcharts';
 import theme from './chart-theme.js';
 
-Highcharts.setOptions(theme);
 export default [
   {
     container: 'source-breakdown',
