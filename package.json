@@ -9,6 +9,15 @@
   "engines": {
     "node": ">=8"
   },
+  "scripts": {
+    "build:dev": "webpack",
+    "build:prod": "webpack -p --env production",
+    "format": "prettier --write '**/*.js'",
+    "lint": "eslint .",
+    "start": "webpack-dev-server",
+    "test:watch": "npm test -- --watch",
+    "test": "jest --coverage"
+  },
   "dependencies": {
     "highcharts": "^7.0.1",
     "prop-types": "^15.6.2",
@@ -41,14 +50,5 @@
     "webpack": "^4.28.2",
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.14"
-  },
-  "scripts": {
-    "build:dev": "webpack",
-    "build:prod": "webpack -p --env production",
-    "format": "prettier --write '**/*.js'",
-    "lint": "eslint .",
-    "start": "webpack-dev-server",
-    "test:watch": "npm test -- --watch",
-    "test": "jest --coverage"
   }
 }
