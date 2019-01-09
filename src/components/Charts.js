@@ -3,6 +3,7 @@ import options from '../data/charts.js';
 import theme from '../data/chart-theme.js';
 
 const ReactHighcharts = require('react-highcharts');
+
 ReactHighcharts.Highcharts.setOptions(theme);
 
 export default function Chart() {

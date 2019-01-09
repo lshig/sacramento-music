@@ -7,11 +7,7 @@ export default function Table() {
     return (
       <tr key={key}>
         <td>
-          <a
-            href={song.source}
-            rel="noopener noreferrer"
-            target="_blank"
-          >
+          <a href={song.source} rel="noopener noreferrer" target="_blank">
             {song.title}
           </a>
         </td>
@@ -41,9 +37,7 @@ export default function Table() {
               </th>
             </tr>
           </thead>
-          <tbody>
-            {tableBody}
-          </tbody>
+          <tbody>{tableBody}</tbody>
         </table>
       </div>
     </section>
