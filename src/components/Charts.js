@@ -1,10 +1,10 @@
 import React from 'react';
 import options from '../data/charts.js';
 import theme from '../data/chart-theme.js';
+import Highcharts from 'highcharts';
+import HighchartsReact from 'highcharts-react-official';
 
-const ReactHighcharts = require('react-highcharts');
-
-ReactHighcharts.Highcharts.setOptions(theme);
+Highcharts.setOptions(theme);
 
 export default function Chart() {
   return (
@@ -15,7 +15,7 @@ export default function Chart() {
             <div className="chart-title-wrapper">
               <h1 className="chart-title-header">{item.title}</h1>
             </div>
-            <ReactHighcharts config={item.options} />
+            <HighchartsReact highcharts={Highcharts} options={item.options} />
             <div className="chart-info-collapsible-wrapper">
               <ul className="collapsible" data-collapsible="expandable">
                 <li>
