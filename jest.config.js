@@ -5,7 +5,7 @@ module.exports = {
   setupFiles: ['<rootDir>/test/setup-tests.js'],
   testEnvironment: 'node',
   transform: {
-    '^.+.jsx?$': '<rootDir>/test/setup-jest.js'
+    '^.+.jsx?$': '<rootDir>/test/setup-jest.js',
   },
-  verbose: true
+  verbose: true,
 };

@@ -1,7 +1,7 @@
 module.exports = {
   extends: require.resolve('./eslint-base'),
   parserOptions: {
-    sourceType: 'module'
+    sourceType: 'module',
   },
   plugins: ['import'],
   rules: {
@@ -17,6 +17,6 @@ module.exports = {
     'import/no-named-as-default-member': 'error',
     'import/no-named-as-default': 'error',
     'import/no-named-default': 'error',
-    'import/no-unresolved': 'error'
-  }
+    'import/no-unresolved': 'error',
+  },
 };

@@ -15,23 +15,23 @@ const HTMLWebpackPluginConfig = new HTMLWebpackPlugin({
     keepClosingSlash: true,
     minifyJS: true,
     minifyCSS: true,
-    minifyURLs: true
+    minifyURLs: true,
   },
-  template: path.join(__dirname, '/src/index.html')
+  template: path.join(__dirname, '/src/index.html'),
 });
 
 module.exports = {
   mode: 'development',
   entry: {
-    main: './src/index.js'
+    main: './src/index.js',
   },
   output: {
     chunkFilename: 'vendor.js',
     filename: 'bundle.js',
-    path: path.resolve(__dirname, 'dist')
+    path: path.resolve(__dirname, 'dist'),
   },
   resolve: {
-    extensions: ['.js']
+    extensions: ['.js'],
   },
   module: {
     rules: [
@@ -40,12 +40,12 @@ module.exports = {
         include: [path.resolve(__dirname, 'src')],
         loader: 'babel-loader',
         options: {
-          presets: ['@babel/react', '@babel/env']
+          presets: ['@babel/react', '@babel/env'],
         },
-        test: /\.(js|jsx)$/
-      }
+        test: /\.(js|jsx)$/,
+      },
     ],
-    noParse: /(mapbox-gl)\.js$/
+    noParse: /(mapbox-gl)\.js$/,
   },
   optimization: {
     splitChunks: {
@@ -54,16 +54,16 @@ module.exports = {
           chunks: 'initial',
           name: 'vendor',
           test: 'vendor',
-          enforce: true
-        }
-      }
+          enforce: true,
+        },
+      },
     },
-    runtimeChunk: 'single'
+    runtimeChunk: 'single',
   },
   performance: false,
   plugins: [HTMLWebpackPluginConfig],
   devServer: {
     compress: true,
-    port: 9000
-  }
+    port: 9000,
+  },
 };

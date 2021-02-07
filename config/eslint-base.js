@@ -1,10 +1,10 @@
 module.exports = {
   extends: 'eslint:recommended',
   env: {
-    es6: true
+    es6: true,
   },
   parserOptions: {
-    ecmaVersion: 2018
+    ecmaVersion: 2018,
   },
   rules: {
     eqeqeq: ['error', 'smart'],
@@ -34,6 +34,6 @@ module.exports = {
     semi: ['error', 'always'],
     'space-infix-ops': 'error',
     'spaced-comment': ['error', 'always'],
-    'template-curly-spacing': ['error', 'never']
-  }
+    'template-curly-spacing': ['error', 'never'],
+  },
 };

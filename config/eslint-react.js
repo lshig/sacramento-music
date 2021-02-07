@@ -2,8 +2,8 @@ module.exports = {
   extends: require.resolve('./eslint-base'),
   parserOptions: {
     ecmaFeatures: {
-      jsx: true
-    }
+      jsx: true,
+    },
   },
   plugins: ['react'],
   rules: {
@@ -30,6 +30,6 @@ module.exports = {
     'react/prop-types': 'error',
     'react/react-in-jsx-scope': 'error',
     'react/require-render-return': 'error',
-    'react/style-prop-object': 'error'
-  }
+    'react/style-prop-object': 'error',
+  },
 };

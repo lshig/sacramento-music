@@ -6,8 +6,8 @@ import Charts from '../src/components/Charts';
 jest.mock('react-highcharts', () => {
   return {
     Highcharts: {
-      setOptions: jest.fn()
-    }
+      setOptions: jest.fn(),
+    },
   };
 });
 

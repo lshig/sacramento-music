@@ -13,26 +13,26 @@ export default [
         spacingLeft: 0,
         spacingRight: 0,
         height: '450',
-        type: 'pie'
+        type: 'pie',
       },
       credits: {
-        enabled: false
+        enabled: false,
       },
       title: {
-        text: null
+        text: null,
       },
       subtitle: {
-        text: null
+        text: null,
       },
       legend: {
         align: 'center',
         layout: 'vertical',
-        verticalAlign: 'bottom'
+        verticalAlign: 'bottom',
       },
       tooltip: {
         pointFormat:
           '<b>{point.percentage:.1f}%</b><br><b>{point.y} songs</b> of {point.total}',
-        crosshairs: false
+        crosshairs: false,
       },
       plotOptions: {
         pie: {
@@ -41,20 +41,20 @@ export default [
           shadow: false,
           cursor: 'pointer',
           dataLabels: {
-            enabled: false
+            enabled: false,
           },
-          showInLegend: true
+          showInLegend: true,
         },
         series: {
           states: {
             hover: {
               enabled: true,
               halo: {
-                size: 0
-              }
-            }
-          }
-        }
+                size: 0,
+              },
+            },
+          },
+        },
       },
       series: [
         {
@@ -67,57 +67,57 @@ export default [
               selected: true,
               sliced: true,
               y: 79,
-              color: theme.colors[7]
+              color: theme.colors[7],
             },
             {
               name: 'AZLYRICS.COM',
               y: 74,
-              color: theme.colors[8]
+              color: theme.colors[8],
             },
             {
               name: 'SPOTIFY.COM',
               y: 19,
-              color: theme.colors[10]
+              color: theme.colors[10],
             },
             {
               name: 'OTHER: < 5 SONGS',
               y: 19,
-              color: theme.colors[9]
+              color: theme.colors[9],
             },
             {
               name: 'TIDIDO.COM',
               y: 13,
-              color: theme.colors[11]
+              color: theme.colors[11],
             },
             {
               name: 'SHAZAM.COM',
               y: 13,
-              color: theme.colors[12]
+              color: theme.colors[12],
             },
             {
               name: 'METROLYRICS.COM',
               y: 11,
-              color: theme.colors[13]
+              color: theme.colors[13],
             },
             {
               name: 'SOUNDCLOUD.COM',
               y: 8,
-              color: theme.colors[14]
+              color: theme.colors[14],
             },
             {
               name: 'YOUTUBE.COM',
               y: 8,
-              color: theme.colors[15]
+              color: theme.colors[15],
             },
             {
               name: 'BANDCAMP.COM',
               y: 7,
-              color: theme.colors[16]
-            }
-          ]
-        }
-      ]
-    }
+              color: theme.colors[16],
+            },
+          ],
+        },
+      ],
+    },
   },
   {
     container: 'time-vs-frequency',
@@ -126,57 +126,57 @@ export default [
       'This data required that I collect the year of each song and run a count on how many songs correspond to the year released. None of the lyric sources made it easy to date when these songs were first released. Accuracy is based on what I could find on Google, a lot of the years found were manual look-ups. Also note, I collected data up until mid-2016, the data for that year may be incomplete.',
     options: {
       chart: {
-        type: 'spline'
+        type: 'spline',
       },
       credits: {
-        enabled: false
+        enabled: false,
       },
       title: {
-        text: null
+        text: null,
       },
       subtitle: {
-        text: null
+        text: null,
       },
       xAxis: {
         type: 'category',
         crosshair: {
           width: 1,
-          color: '#A0A0A3'
-        }
+          color: '#A0A0A3',
+        },
       },
       yAxis: {
         title: {
-          text: 'Number of Songs'
-        }
+          text: 'Number of Songs',
+        },
       },
       legend: {
-        enabled: false
+        enabled: false,
       },
       plotOptions: {
         spline: {
           marker: {
-            enabled: false
-          }
+            enabled: false,
+          },
         },
         series: {
           states: {
             hover: {
               enabled: true,
               halo: {
-                size: 0
-              }
-            }
-          }
-        }
+                size: 0,
+              },
+            },
+          },
+        },
       },
       dataLabels: {
-        enabled: false
+        enabled: false,
       },
       tooltip: {
         shadow: false,
         animation: false,
         crosshairs: true,
-        pointFormat: '<b>{point.y} songs</b> of 251'
+        pointFormat: '<b>{point.y} songs</b> of 251',
       },
       series: [
         {
@@ -242,11 +242,11 @@ export default [
             [2013, 18],
             [2014, 9],
             [2015, 35],
-            [2016, 12]
-          ]
-        }
-      ]
-    }
+            [2016, 12],
+          ],
+        },
+      ],
+    },
   },
   {
     container: 'category-breakdown',
@@ -260,26 +260,26 @@ export default [
         spacingLeft: 0,
         spacingRight: 0,
         height: '410',
-        type: 'pie'
+        type: 'pie',
       },
       credits: {
-        enabled: false
+        enabled: false,
       },
       title: {
-        text: null
+        text: null,
       },
       subtitle: {
-        text: null
+        text: null,
       },
       legend: {
         align: 'center',
         layout: 'vertical',
-        verticalAlign: 'bottom'
+        verticalAlign: 'bottom',
       },
       tooltip: {
         pointFormat:
           '<b>{point.percentage:.1f}%</b><br><b>{point.y} references</b> of {point.total}<br>from 251 songs',
-        crosshairs: false
+        crosshairs: false,
       },
       plotOptions: {
         pie: {
@@ -288,20 +288,20 @@ export default [
           shadow: false,
           cursor: 'pointer',
           dataLabels: {
-            enabled: false
+            enabled: false,
           },
-          showInLegend: true
+          showInLegend: true,
         },
         series: {
           states: {
             hover: {
               enabled: true,
               halo: {
-                size: 0
-              }
-            }
-          }
-        }
+                size: 0,
+              },
+            },
+          },
+        },
       },
       series: [
         {
@@ -313,42 +313,42 @@ export default [
               y: 253,
               selected: true,
               sliced: true,
-              color: theme.colors[0]
+              color: theme.colors[0],
             },
             {
               name: 'STREET/NEIGHBORHOOD',
               y: 44,
-              color: theme.colors[1]
+              color: theme.colors[1],
             },
             {
               name: 'SPORTS',
               y: 23,
-              color: theme.colors[2]
+              color: theme.colors[2],
             },
             {
               name: 'EDUCATION',
               y: 10,
-              color: theme.colors[3]
+              color: theme.colors[3],
             },
             {
               name: 'LANDMARKS',
               y: 5,
-              color: theme.colors[4]
+              color: theme.colors[4],
             },
             {
               name: 'OTHER',
               y: 4,
-              color: theme.colors[5]
+              color: theme.colors[5],
             },
             {
               name: 'RIVERS',
               y: 2,
-              color: theme.colors[6]
-            }
-          ]
-        }
-      ]
-    }
+              color: theme.colors[6],
+            },
+          ],
+        },
+      ],
+    },
   },
   {
     container: 'word-vs-frequency',
@@ -358,16 +358,16 @@ export default [
     options: {
       chart: {
         type: 'bar',
-        height: '700'
+        height: '700',
       },
       credits: {
-        enabled: false
+        enabled: false,
       },
       title: {
-        text: null
+        text: null,
       },
       subtitle: {
-        text: null
+        text: null,
       },
       xAxis: {
         type: 'category',
@@ -396,43 +396,43 @@ export default [
           'GREENHAVEN',
           'OAK PARK',
           'RUTTER PARK',
-          'TREE CITY'
-        ]
+          'TREE CITY',
+        ],
       },
       yAxis: {
         title: {
-          text: 'Number of References'
+          text: 'Number of References',
         },
-        align: 'right'
+        align: 'right',
       },
       legend: {
         layout: 'horizontal',
-        verticalAlign: 'bottom'
+        verticalAlign: 'bottom',
       },
       plotOptions: {
         bar: {
           cursor: 'pointer',
-          stacking: 'normal'
+          stacking: 'normal',
         },
         series: {
           states: {
             hover: {
               enabled: true,
               halo: {
-                size: 0
-              }
-            }
-          }
-        }
+                size: 0,
+              },
+            },
+          },
+        },
       },
       dataLabels: {
         enabled: true,
         align: 'left',
-        format: '{point.y}'
+        format: '{point.y}',
       },
       tooltip: {
         pointFormat: '<b>{point.y}</b> of 341 references<br>from 251 songs',
-        crosshairs: false
+        crosshairs: false,
       },
       series: [
         {
@@ -442,41 +442,41 @@ export default [
           data: [
             {
               x: 0,
-              y: 144
+              y: 144,
             },
             {
               x: 1,
-              y: 52
+              y: 52,
             },
             {
               x: 2,
-              y: 28
+              y: 28,
             },
             {
               x: 3,
-              y: 12
+              y: 12,
             },
             {
               x: 6,
-              y: 4
+              y: 4,
             },
             {
               x: 10,
-              y: 4
+              y: 4,
             },
             {
               x: 17,
-              y: 2
+              y: 2,
             },
             {
               x: 19,
-              y: 2
+              y: 2,
             },
             {
               x: 24,
-              y: 2
-            }
-          ]
+              y: 2,
+            },
+          ],
         },
         {
           name: 'STREET/NEIGHBORHOOD',
@@ -485,41 +485,41 @@ export default [
           data: [
             {
               x: 7,
-              y: 4
+              y: 4,
             },
             {
               x: 8,
-              y: 4
+              y: 4,
             },
             {
               x: 11,
-              y: 4
+              y: 4,
             },
             {
               x: 12,
-              y: 3
+              y: 3,
             },
             {
               x: 14,
-              y: 3
+              y: 3,
             },
             {
               x: 20,
-              y: 2
+              y: 2,
             },
             {
               x: 21,
-              y: 2
+              y: 2,
             },
             {
               x: 22,
-              y: 2
+              y: 2,
             },
             {
               x: 23,
-              y: 2
-            }
-          ]
+              y: 2,
+            },
+          ],
         },
         {
           name: 'SPORTS',
@@ -528,21 +528,21 @@ export default [
           data: [
             {
               x: 4,
-              y: 10
+              y: 10,
             },
             {
               x: 5,
-              y: 6
+              y: 6,
             },
             {
               x: 9,
-              y: 4
+              y: 4,
             },
             {
               x: 16,
-              y: 2
-            }
-          ]
+              y: 2,
+            },
+          ],
         },
         {
           name: 'EDUCATION',
@@ -551,13 +551,13 @@ export default [
           data: [
             {
               x: 13,
-              y: 3
+              y: 3,
             },
             {
               x: 18,
-              y: 2
-            }
-          ]
+              y: 2,
+            },
+          ],
         },
         {
           name: 'LANDMARKS',
@@ -566,12 +566,12 @@ export default [
           data: [
             {
               x: 15,
-              y: 2
-            }
-          ]
-        }
-      ]
-    }
+              y: 2,
+            },
+          ],
+        },
+      ],
+    },
   },
   {
     container: 'artist-vs-frequency',
@@ -581,30 +581,30 @@ export default [
     options: {
       chart: {
         type: 'bar',
-        height: '800'
+        height: '800',
       },
       credits: {
-        enabled: false
+        enabled: false,
       },
       title: {
-        text: null
+        text: null,
       },
       subtitle: {
-        text: null
+        text: null,
       },
       xAxis: {
         type: 'category',
         labels: {
-          align: 'right'
-        }
+          align: 'right',
+        },
       },
       yAxis: {
         title: {
-          text: 'Number of Songs'
-        }
+          text: 'Number of Songs',
+        },
       },
       legend: {
-        enabled: false
+        enabled: false,
       },
       plotOptions: {
         series: {
@@ -612,20 +612,20 @@ export default [
             hover: {
               enabled: true,
               halo: {
-                size: 0
-              }
-            }
-          }
-        }
+                size: 0,
+              },
+            },
+          },
+        },
       },
       dataLabels: {
         enabled: true,
         align: 'left',
-        format: '{point.y}'
+        format: '{point.y}',
       },
       tooltip: {
         pointFormat: '<b>{point.y}</b> of 339 artists<br>from 251 songs',
-        crosshairs: false
+        crosshairs: false,
       },
       series: [
         {
@@ -663,10 +663,10 @@ export default [
             ['SPICE 1', 2],
             ['TBONE', 2],
             ['THE GUY WHO SINGS SONGS ABOUT CITIES & TOWNS', 2],
-            ['TRU', 2]
-          ]
-        }
-      ]
-    }
-  }
+            ['TRU', 2],
+          ],
+        },
+      ],
+    },
+  },
 ];
