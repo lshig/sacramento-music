@@ -7,7 +7,7 @@ export default {
       artist: 'johnny cash',
       featureArtist: '',
       source: 'http://genius.com/johnny-cash-folsom-prison-blues-lyrics',
-      tokens: 'folsom',
+      tokens: 'folsom'
     },
     {
       year: 1971,
@@ -16,7 +16,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.metrolyrics.com/santa-monica-sunshine-lyrics-the-sweet.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1972,
@@ -25,7 +25,7 @@ export default {
       featureArtist: '',
       source:
         'http://genius.com/middle-of-the-road-sacramento-a-wonderful-town-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1976,
@@ -34,7 +34,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.metrolyrics.com/yellow-roses-on-her-gown-lyrics-johnny-mathis.html',
-      tokens: 'sacramento river',
+      tokens: 'sacramento river'
     },
     {
       year: 1979,
@@ -43,7 +43,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.lyricsfreak.com/c/chuck+berry/california_20514596.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1982,
@@ -52,7 +52,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.metrolyrics.com/ballad-of-jerry-curlan-lyrics-angry-samoans.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1985,
@@ -60,7 +60,7 @@ export default {
       artist: 'game theory',
       featureArtist: '',
       source: 'http://genius.com/3086887',
-      tokens: 916,
+      tokens: 916
     },
     {
       year: 1986,
@@ -68,7 +68,7 @@ export default {
       artist: 'alabama',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/alabama/ponyexpress.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1987,
@@ -77,7 +77,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/deadkennedys/achildandhislawnmower.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1990,
@@ -85,7 +85,7 @@ export default {
       artist: 'too $hort',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/toohort/shortdogsinthehouse.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1992,
@@ -93,7 +93,7 @@ export default {
       artist: 'x-raided (a.k.a nefarious)',
       featureArtist: '',
       source: 'http://genius.com/x-raided-shoot-cha-in-a-minute-lyrics',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 1992,
@@ -102,7 +102,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/sirmixalot/arappersreputation.html',
-      tokens: 'sacramento, sac',
+      tokens: 'sacramento, sac'
     },
     {
       year: 1993,
@@ -110,7 +110,7 @@ export default {
       artist: 'mdc',
       featureArtist: '',
       source: 'http://genius.com/mdc-welfare-line-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1993,
@@ -119,7 +119,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.metrolyrics.com/driving-aloud-radio-storm-lyrics-hitchcock-robyn.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1993,
@@ -127,7 +127,7 @@ export default {
       artist: 'animaniacs',
       featureArtist: '',
       source: 'http://www.songlyrics.com/animaniacs/wakko-s-america-lyrics/',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1994,
@@ -135,7 +135,7 @@ export default {
       artist: "rappin' 4 tay",
       featureArtist: '',
       source: 'http://genius.com/rappin-4-tay-playaz-club-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1994,
@@ -143,7 +143,7 @@ export default {
       artist: 'the click',
       featureArtist: '',
       source: 'http://genius.com/the-click-mr-flamboyant-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1994,
@@ -151,7 +151,7 @@ export default {
       artist: "mr. jack daniel's original silver cornet band",
       featureArtist: '',
       source: 'http://www.shazam.com/track/60724365/sacramento-jubilee',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1994,
@@ -160,7 +160,7 @@ export default {
       featureArtist: '',
       source:
         'https://play.google.com/music/preview/teyyq5m6rq4zwrt53nmnx4ju73i?lyrics=1&utm_source=google&utm_medium=search&utm_campaign=lyrics&pcampaignid=kp-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1994,
@@ -169,7 +169,7 @@ export default {
       featureArtist: '',
       source:
         'https://play.google.com/music/preview/tlvm7qlcjr4b4qurxgwodfb7wz4?lyrics=1&utm_source=google&utm_medium=search&utm_campaign=lyrics&pcampaignid=kp-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1994,
@@ -177,7 +177,7 @@ export default {
       artist: 'pavement',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/pavement/unfair.html',
-      tokens: 'sacto',
+      tokens: 'sacto'
     },
     {
       year: 1995,
@@ -185,7 +185,7 @@ export default {
       artist: 'brotha lynch hung',
       featureArtist: 'mr. doctor',
       source: 'http://genius.com/brotha-lynch-hung-deep-down-lyrics',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 1995,
@@ -194,7 +194,7 @@ export default {
       featureArtist: '',
       source:
         'http://genius.com/brotha-lynch-hung-welcome-2-your-own-death-lyrics',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 1995,
@@ -202,7 +202,7 @@ export default {
       artist: 'nationwide rip ridaz',
       featureArtist: '',
       source: 'http://genius.com/crips-roll-call-lyrics',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 1995,
@@ -211,7 +211,7 @@ export default {
       featureArtist: 'baby reg, baby x, big dan, mr. doc',
       source:
         'http://www.azlyrics.com/lyrics/brothalynchhung/locc2dabrain.html',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 1995,
@@ -219,7 +219,7 @@ export default {
       artist: '2pac',
       featureArtist: 'dr. dre',
       source: 'http://www.azlyrics.com/lyrics/2pac/californialove.html',
-      tokens: 'sacktown, sacramento',
+      tokens: 'sacktown, sacramento'
     },
     {
       year: 1995,
@@ -227,7 +227,7 @@ export default {
       artist: 'mariah carey',
       featureArtist: "ol' dirty bastard",
       source: 'http://genius.com/mariah-carey-fantasy-bad-boy-remix-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1995,
@@ -235,7 +235,7 @@ export default {
       artist: 'miguel mateos',
       featureArtist: '',
       source: 'http://genius.com/miguel-mateos-voy-con-quien-soy-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1995,
@@ -243,7 +243,7 @@ export default {
       artist: 'strictly inc.',
       featureArtist: '',
       source: 'http://genius.com/strictly-inc-strictly-incognito-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1995,
@@ -252,7 +252,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184372155051/al5432a79f196dee63468d1f84/t5433f3f8196dee9e149ad8f5',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1995,
@@ -260,7 +260,7 @@ export default {
       artist: 'brian wilson',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/brianwilson/palmtreeandmoon.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1995,
@@ -269,7 +269,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/brucespringsteen/thenewtimer.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1995,
@@ -277,7 +277,7 @@ export default {
       artist: 'black wine',
       featureArtist: '',
       source: 'http://genius.com/black-wine-get-up-lyrics',
-      tokens: 'sactown',
+      tokens: 'sactown'
     },
     {
       year: 1996,
@@ -286,7 +286,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.metrolyrics.com/takin-no-shortz-lyrics-hollow-tip.html',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 1996,
@@ -294,7 +294,7 @@ export default {
       artist: 'fifteen',
       featureArtist: '',
       source: 'http://genius.com/fifteen-924-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1996,
@@ -302,7 +302,7 @@ export default {
       artist: "rappin' 4 tay",
       featureArtist: 'lil fly',
       source: 'http://genius.com/rappin-4-tay-new-trump-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1996,
@@ -311,7 +311,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/bloodhoundgang/goingnowhereslow.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1996,
@@ -319,7 +319,7 @@ export default {
       artist: 'a tribe called quest',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/tribecalledquest/motivators.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1997,
@@ -328,7 +328,7 @@ export default {
       featureArtist: 'swartzaniggaz',
       source:
         'http://www.azlyrics.com/lyrics/brothalynchhung/feelmynaturerize.html',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 1997,
@@ -336,7 +336,7 @@ export default {
       artist: 'mr. serv-on',
       featureArtist: '',
       source: 'http://genius.com/mr-serv-on-throw-ya-city-up-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1997,
@@ -344,7 +344,7 @@ export default {
       artist: 'tru',
       featureArtist: '',
       source: 'http://genius.com/tru-bad-boyz-on-a-mission-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1997,
@@ -352,7 +352,7 @@ export default {
       artist: 'tru',
       featureArtist: '',
       source: 'http://genius.com/tru-there-dey-go-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1997,
@@ -360,7 +360,7 @@ export default {
       artist: 'brotha lynch hung',
       featureArtist: 'e-40, first degree, twamp dog',
       source: 'http://www.azlyrics.com/lyrics/brothalynchhung/situation.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1997,
@@ -368,7 +368,7 @@ export default {
       artist: 'sublime',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/sublime/thanksdub.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1998,
@@ -376,7 +376,7 @@ export default {
       artist: 'hussein fatal',
       featureArtist: '',
       source: 'http://genius.com/hussein-fatal-the-world-is-changing-lyrics',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 1998,
@@ -384,7 +384,7 @@ export default {
       artist: 'ras kass',
       featureArtist: 'dr. dre, mack 10',
       source: 'http://genius.com/ras-kass-ghetto-fabulous-lyrics',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 1998,
@@ -392,7 +392,7 @@ export default {
       artist: 'c-bo',
       featureArtist: 'spice 1',
       source: 'http://genius.com/c-bo-major-pain-and-bossalini-lyrics',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 1998,
@@ -400,7 +400,7 @@ export default {
       artist: 'lunasicc',
       featureArtist: 'kill tay',
       source: 'http://genius.com/lunasicc-strictly-business-lyrics',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 1998,
@@ -408,7 +408,7 @@ export default {
       artist: 'beastie boys',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/beastieboys/dedication.html',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 1998,
@@ -416,7 +416,7 @@ export default {
       artist: 'hollow tip',
       featureArtist: '',
       source: 'http://genius.com/hollow-tip-blow-up-lyrics',
-      tokens: 'sac-town, sacramento',
+      tokens: 'sac-town, sacramento'
     },
     {
       year: 1998,
@@ -424,7 +424,7 @@ export default {
       artist: 'beastie boys',
       featureArtist: '',
       source: 'http://genius.com/beastie-boys-three-mcs-and-one-dj-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1998,
@@ -432,7 +432,7 @@ export default {
       artist: 'e-40, c-bo',
       featureArtist: '',
       source: 'http://genius.com/c-bo-40-and-c-bo-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1998,
@@ -440,7 +440,7 @@ export default {
       artist: 'lunasicc',
       featureArtist: '',
       source: 'http://genius.com/lunasicc-pay-style-flows-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1998,
@@ -448,7 +448,7 @@ export default {
       artist: 'e-40',
       featureArtist: 'k-ci and jojo, too $hort',
       source: 'http://www.azlyrics.com/lyrics/e40/fromthegroundup.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1998,
@@ -456,7 +456,7 @@ export default {
       artist: 'lunasicc',
       featureArtist: 'ager main, killa tay',
       source: 'http://genius.com/lunasicc-can-you-hang-lyrics',
-      tokens: 'sacramento, sac-town',
+      tokens: 'sacramento, sac-town'
     },
     {
       year: 1998,
@@ -464,7 +464,7 @@ export default {
       artist: 'filibuster',
       featureArtist: '',
       source: 'http://www.shazam.com/track/59596686/sutters-fort',
-      tokens: "sutter's fort",
+      tokens: "sutter's fort"
     },
     {
       year: 1998,
@@ -472,7 +472,7 @@ export default {
       artist: '2 dope',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 1999,
@@ -481,7 +481,7 @@ export default {
       featureArtist: '',
       source:
         'https://play.google.com/music/preview/tbdz7ccxpyaqqh5k6k45d2cbqga?lyrics=1&utm_source=google&utm_medium=search&utm_campaign=lyrics&pcampaignid=kp-lyrics',
-      tokens: 'pony express',
+      tokens: 'pony express'
     },
     {
       year: 1999,
@@ -489,7 +489,7 @@ export default {
       artist: 'x-raided (a.k.a nefarious)',
       featureArtist: '',
       source: 'http://genius.com/x-raided-spitten-venom-lyrics',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 1999,
@@ -497,7 +497,7 @@ export default {
       artist: 'x-raided (a.k.a nefarious)',
       featureArtist: '',
       source: 'http://genius.com/x-raided-who-is-yall-niggas-lyrics',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 1999,
@@ -505,7 +505,7 @@ export default {
       artist: 'raekwon',
       featureArtist: '',
       source: 'http://genius.com/raekwon-forecast-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1999,
@@ -513,7 +513,7 @@ export default {
       artist: 'spice 1',
       featureArtist: '',
       source: 'http://genius.com/spice-1-killerfornia-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1999,
@@ -521,7 +521,7 @@ export default {
       artist: 'the cuf',
       featureArtist: '',
       source: 'http://genius.com/the-cuf-sacramento-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1999,
@@ -530,7 +530,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/techn9ne/planetrock2koriginalversion.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 1999,
@@ -538,7 +538,7 @@ export default {
       artist: 'limp bizkit',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/limpbizkit/showmewhatyougot.html',
-      tokens: 'sacto',
+      tokens: 'sacto'
     },
     {
       year: 2000,
@@ -546,7 +546,7 @@ export default {
       artist: 'x-raided (a.k.a nefarious)',
       featureArtist: '',
       source: 'http://genius.com/x-raided-everybody-killa-lyrics',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 2000,
@@ -554,7 +554,7 @@ export default {
       artist: 'brotha lynch hung',
       featureArtist: 'bad azz',
       source: 'http://www.azlyrics.com/lyrics/brothalynchhung/onetime.html',
-      tokens: 'sac town',
+      tokens: 'sac town'
     },
     {
       year: 2000,
@@ -562,7 +562,7 @@ export default {
       artist: 'x-raided (a.k.a nefarious)',
       featureArtist: '',
       source: 'http://genius.com/x-raided-aka-nefarious-jealous-lyrics',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 2000,
@@ -571,7 +571,7 @@ export default {
       featureArtist: '',
       source:
         'http://genius.com/x-raided-most-wanted-who-they-wanna-kill-lyrics',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 2000,
@@ -579,7 +579,7 @@ export default {
       artist: 'x-raided (a.k.a nefarious)',
       featureArtist: '',
       source: 'http://genius.com/x-raided-use-yo-nina-lyrics',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 2000,
@@ -587,7 +587,7 @@ export default {
       artist: 'x-raided (a.k.a nefarious)',
       featureArtist: '',
       source: 'http://genius.com/x-raided-sac-a-indo-where-im-from-lyrics',
-      tokens: 'sac, sacramento',
+      tokens: 'sac, sacramento'
     },
     {
       year: 2000,
@@ -595,7 +595,7 @@ export default {
       artist: 'c-bo',
       featureArtist: '',
       source: 'http://genius.com/c-bo-enemy-of-the-state-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2000,
@@ -604,7 +604,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184373504301/al56012929e7c622686a802440/t5601292ae7c622686a8024f8',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2000,
@@ -612,7 +612,7 @@ export default {
       artist: 'us navy sea chanter chorus',
       featureArtist: '',
       source: 'http://www.shazam.com/track/47010267/the-old-navy',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2000,
@@ -620,7 +620,7 @@ export default {
       artist: 'brotha lynch hung',
       featureArtist: 'snoop dogg',
       source: 'http://www.azlyrics.com/lyrics/brothalynchhung/doggmarket.html',
-      tokens: 'sacramento, sac-town',
+      tokens: 'sacramento, sac-town'
     },
     {
       year: 2001,
@@ -628,7 +628,7 @@ export default {
       artist: 'ludacris',
       featureArtist: 'nate dogg',
       source: 'http://www.azlyrics.com/lyrics/ludacris/areacodes.html',
-      tokens: 916,
+      tokens: 916
     },
     {
       year: 2001,
@@ -636,7 +636,7 @@ export default {
       artist: 'cake',
       featureArtist: '',
       source: 'http://genius.com/cake-arco-arena-lyrics',
-      tokens: 'arco arena',
+      tokens: 'arco arena'
     },
     {
       year: 2001,
@@ -644,7 +644,7 @@ export default {
       artist: 'brotha lynch hung',
       featureArtist: '',
       source: 'http://genius.com/brotha-lynch-hung-24-gone-lyrics',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 2001,
@@ -652,7 +652,7 @@ export default {
       artist: 'hollow tip',
       featureArtist: '',
       source: 'http://genius.com/hollow-tip-4-my-enemies-lyrics',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 2001,
@@ -660,7 +660,7 @@ export default {
       artist: 'ludacris',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/ludacris/crybabiesohno.html',
-      tokens: 'sac king, chris webber',
+      tokens: 'sac king, chris webber'
     },
     {
       year: 2001,
@@ -668,7 +668,7 @@ export default {
       artist: 'x-raided (a.k.a nefarious)',
       featureArtist: '',
       source: 'http://genius.com/x-raided-fuccyoutoo-lyrics',
-      tokens: 'sac-a-indo, sacramento, jack-ramento',
+      tokens: 'sac-a-indo, sacramento, jack-ramento'
     },
     {
       year: 2001,
@@ -676,7 +676,7 @@ export default {
       artist: 'bad azz',
       featureArtist: 'snoop dogg',
       source: 'http://genius.com/bad-azz-we-from-the-lbc-lyrics',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 2001,
@@ -685,7 +685,7 @@ export default {
       featureArtist: '',
       source:
         'http://genius.com/brotha-lynch-hung-187-on-a-hook-feat-tech-n9ne-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2001,
@@ -693,7 +693,7 @@ export default {
       artist: 'cake',
       featureArtist: '',
       source: 'http://genius.com/cake-long-line-of-cars-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2001,
@@ -701,7 +701,7 @@ export default {
       artist: 'x-raided (a.k.a nefarious)',
       featureArtist: '',
       source: 'http://genius.com/x-raided-macaframa-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2001,
@@ -710,7 +710,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.letssingit.com/bill-morrissey-lyrics-harry-s-last-call-nrqzfbq',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2001,
@@ -718,7 +718,7 @@ export default {
       artist: 'hollow tip',
       featureArtist: '',
       source: 'http://genius.com/hollow-tip-keep-ballin-lyrics',
-      tokens: 'sacramento king',
+      tokens: 'sacramento king'
     },
     {
       year: 2002,
@@ -727,7 +727,7 @@ export default {
       featureArtist: '',
       source:
         'https://sonichits.com/video/thirstin_howl_iii/stole_(feat._rack-lo,_big_boo_%26_shillz_da_realz)',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 2002,
@@ -735,7 +735,7 @@ export default {
       artist: 'camp lo',
       featureArtist: '',
       source: 'http://genius.com/camp-lo-gotcha-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2002,
@@ -744,7 +744,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184372152872/al56017f4ce7c622686ab4fa72/t56017f4ee7c622686ab4fb2f',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2002,
@@ -752,7 +752,7 @@ export default {
       artist: 'dj quik',
       featureArtist: 'will hudspeth',
       source: 'http://www.azlyrics.com/lyrics/djquik/ohwell.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2002,
@@ -760,7 +760,7 @@ export default {
       artist: 'tony scherr',
       featureArtist: '',
       source: 'http://www.shazam.com/track/58077358/sacramento',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2002,
@@ -768,7 +768,7 @@ export default {
       artist: 'another damn disappointment (a.d.d.)',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2002,
@@ -777,7 +777,7 @@ export default {
       featureArtist: '',
       source:
         'https://www.amazon.com/gone-wanderin-jackie-greene/dp/b00006l3qr',
-      tokens: 'sacramento, freeport boulevard',
+      tokens: 'sacramento, freeport boulevard'
     },
     {
       year: 2003,
@@ -785,7 +785,7 @@ export default {
       artist: 'brotha lynch hung',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/brothalynchhung/iwentfrom.html',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 2003,
@@ -794,7 +794,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/brothalynchhung/mymindaintright.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2003,
@@ -803,7 +803,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/brothalynchhung/spydiesbirth.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2003,
@@ -811,7 +811,7 @@ export default {
       artist: 'mc lars',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/mclars/humphreythewhale.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2003,
@@ -819,7 +819,7 @@ export default {
       artist: 'hoods',
       featureArtist: '',
       source: 'http://www.metrolyrics.com/e-pugno-limpio-lyrics-hoods.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2003,
@@ -827,7 +827,7 @@ export default {
       artist: '50 cent',
       featureArtist: 'g-unit',
       source: 'http://www.azlyrics.com/lyrics/50cent/followmegangster.html',
-      tokens: 'sacramento kings',
+      tokens: 'sacramento kings'
     },
     {
       year: 2003,
@@ -835,7 +835,7 @@ export default {
       artist: 'yukmouth',
       featureArtist: 'ampichino, devin the dude',
       source: 'http://genius.com/yukmouth-ya-boy-lyrics',
-      tokens: 'sacramento, sac-town',
+      tokens: 'sacramento, sac-town'
     },
     {
       year: 2003,
@@ -843,7 +843,7 @@ export default {
       artist: 'phish',
       featureArtist: '',
       source: 'http://genius.com/phish-california-love-lyrics',
-      tokens: 'sacramento, sack town',
+      tokens: 'sacramento, sack town'
     },
     {
       year: 2004,
@@ -852,7 +852,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184373709512/al55d6d1e313b521ef227b7199/t55d6d1e413b521ef227b71c9',
-      tokens: 'american river',
+      tokens: 'american river'
     },
     {
       year: 2004,
@@ -860,7 +860,7 @@ export default {
       artist: 't-nutty',
       featureArtist: '',
       source: 'http://www.lyricsmania.com/sac_kingz_lyrics_t-nutty.html',
-      tokens: 'sac, sac kings, sacramento',
+      tokens: 'sac, sac kings, sacramento'
     },
     {
       year: 2004,
@@ -868,7 +868,7 @@ export default {
       artist: 'cypress hill',
       featureArtist: '',
       source: 'http://genius.com/cypress-hill-money-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2004,
@@ -877,7 +877,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184374050343/al55f0963ca5f39075733f4979/t55f0963ea5f39075733f4a0f',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2004,
@@ -885,7 +885,7 @@ export default {
       artist: "foc'sle singers",
       featureArtist: '',
       source: 'http://www.shazam.com/track/61425797/banks-of-the-sacramento',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2004,
@@ -893,7 +893,7 @@ export default {
       artist: 'salty dick',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2004,
@@ -901,7 +901,7 @@ export default {
       artist: "cam'ron",
       featureArtist: 'jim jones',
       source: 'http://genius.com/camron-the-dope-man-lyrics',
-      tokens: 'sactown',
+      tokens: 'sactown'
     },
     {
       year: 2005,
@@ -909,7 +909,7 @@ export default {
       artist: 'the game',
       featureArtist: 'young menace',
       source: 'http://www.azlyrics.com/lyrics/game/imamobsta.html',
-      tokens: 'sac-town, sacramenton',
+      tokens: 'sac-town, sacramenton'
     },
     {
       year: 2005,
@@ -917,7 +917,7 @@ export default {
       artist: 'deep dish',
       featureArtist: '',
       source: 'http://genius.com/deep-dish-sacramento-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2005,
@@ -925,7 +925,7 @@ export default {
       artist: 'gretchen wilson',
       featureArtist: '',
       source: 'http://genius.com/gretchen-wilson-california-girls-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2005,
@@ -933,7 +933,7 @@ export default {
       artist: 'charlie brown jr.',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/charliebrownjr/greenges.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2005,
@@ -941,7 +941,7 @@ export default {
       artist: 'oxygen',
       featureArtist: '',
       source: 'http://www.shazam.com/track/53785351/sacramento',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2005,
@@ -949,7 +949,7 @@ export default {
       artist: 'tony yayo',
       featureArtist: 'lloyd banks',
       source: 'http://www.azlyrics.com/lyrics/tonyyayo/nyciswhereimfrom.html',
-      tokens: 'sacramento, king',
+      tokens: 'sacramento, king'
     },
     {
       year: 2006,
@@ -958,7 +958,7 @@ export default {
       featureArtist: 'sun god, trife da god',
       source:
         'http://www.azlyrics.com/lyrics/ghostfacekillah/miguelsanchez.html',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 2006,
@@ -967,7 +967,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/moonshinebandits/sweethomecalifornia.html',
-      tokens: 'sac-town, sac',
+      tokens: 'sac-town, sac'
     },
     {
       year: 2006,
@@ -975,7 +975,7 @@ export default {
       artist: 'e-40',
       featureArtist: 'miko, stressmatic of the federation',
       source: 'http://www.azlyrics.com/lyrics/e40/blockboi.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2006,
@@ -983,7 +983,7 @@ export default {
       artist: 'ms krazie',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/mskrazie/always.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2006,
@@ -991,7 +991,7 @@ export default {
       artist: 'chris cunningham',
       featureArtist: '',
       source: 'http://www.storyhill.info/lyrics/sacramento.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2006,
@@ -999,7 +999,7 @@ export default {
       artist: 'ffg',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2007,
@@ -1007,7 +1007,7 @@ export default {
       artist: 't-bone',
       featureArtist: '',
       source: 'http://www.metrolyrics.com/ride-wit-me-lyrics-tbone.html',
-      tokens: 916,
+      tokens: 916
     },
     {
       year: 2007,
@@ -1015,7 +1015,7 @@ export default {
       artist: 'federation',
       featureArtist: '',
       source: 'http://genius.com/federation-college-girl-lyrics',
-      tokens: 'sac state, sac city',
+      tokens: 'sac state, sac city'
     },
     {
       year: 2007,
@@ -1023,7 +1023,7 @@ export default {
       artist: 'tech n9ne',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/techn9ne/fanorfoe.html',
-      tokens: 'sac town',
+      tokens: 'sac town'
     },
     {
       year: 2007,
@@ -1031,7 +1031,7 @@ export default {
       artist: 'mims',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/mims/thisiswhyimhot.html',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 2007,
@@ -1040,7 +1040,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184373743629/al55d7179013b521ef228ec08e/t55d7179013b521ef228ec0b7',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2007,
@@ -1049,7 +1049,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/charliebrownjr/skateboardamoreterno.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2007,
@@ -1058,7 +1058,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/charliebrownjr/vivendoavidanumaloucaviagem.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2007,
@@ -1066,7 +1066,7 @@ export default {
       artist: 'stephen dale petit',
       featureArtist: '',
       source: 'http://www.shazam.com/track/54015865/sacramento',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2007,
@@ -1074,7 +1074,7 @@ export default {
       artist: '80 leggs',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2007,
@@ -1082,7 +1082,7 @@ export default {
       artist: 'another rap group',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento, sac, 916',
+      tokens: 'sacramento, sac, 916'
     },
     {
       year: 2008,
@@ -1091,7 +1091,7 @@ export default {
       featureArtist: '',
       source: 'https://www.spotify.com',
       tokens:
-        '916, 29th, garden lands, highlands, oak park, op, valley high, rancho, mack, citris heights, stockton, west gate, parkway, old sac',
+        '916, 29th, garden lands, highlands, oak park, op, valley high, rancho, mack, citris heights, stockton, west gate, parkway, old sac'
     },
     {
       year: 2008,
@@ -1099,7 +1099,7 @@ export default {
       artist: 'ludacris',
       featureArtist: 't.i.',
       source: 'http://www.azlyrics.com/lyrics/ludacris/wishyouwould.html',
-      tokens: 'sac king',
+      tokens: 'sac king'
     },
     {
       year: 2008,
@@ -1107,7 +1107,7 @@ export default {
       artist: 'bone brothers',
       featureArtist: '',
       source: 'http://genius.com/bone-brothers-thug-in-yo-life-lyrics',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 2008,
@@ -1115,7 +1115,7 @@ export default {
       artist: 'heino',
       featureArtist: '',
       source: 'http://genius.com/heino-caramba-caracho-ein-whisky-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2008,
@@ -1123,7 +1123,7 @@ export default {
       artist: 'pimp c, twista, z-ro, bun b',
       featureArtist: '',
       source: 'http://genius.com/pimp-c-isa-playa-time-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2008,
@@ -1132,7 +1132,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184374362081/al55f17610a5f39075738eac4e/t55f17611a5f39075738eaced',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2008,
@@ -1141,7 +1141,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.metrolyrics.com/yeah-sapphire-lyrics-the-hold-steady.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2008,
@@ -1149,7 +1149,7 @@ export default {
       artist: 'harvard glee club',
       featureArtist: '',
       source: 'http://www.singers.com/group/harvard-glee-club/',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2008,
@@ -1158,7 +1158,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.metrolyrics.com/everyone-ive-ever-known-lyrics-one-block-radius.html',
-      tokens: 'sactown',
+      tokens: 'sactown'
     },
     {
       year: 2009,
@@ -1167,7 +1167,7 @@ export default {
       featureArtist: '',
       source:
         'http://genius.com/timothy-b-schmit-white-boy-from-sacramento-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2009,
@@ -1176,7 +1176,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184373930844/al55f052b0a5f390757319f68d/t55f052b1a5f390757319f783',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2009,
@@ -1184,7 +1184,7 @@ export default {
       artist: 'ventolin',
       featureArtist: '',
       source: 'https://www.youtube.com',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2009,
@@ -1192,7 +1192,7 @@ export default {
       artist: 'bloodshot',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2009,
@@ -1200,7 +1200,7 @@ export default {
       artist: 'lmfao',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sactown',
+      tokens: 'sactown'
     },
     {
       year: 2010,
@@ -1208,7 +1208,7 @@ export default {
       artist: 'soosh*e!',
       featureArtist: '',
       source: 'https://sooshe.bandcamp.com/track/roll-high',
-      tokens: 'capitol',
+      tokens: 'capitol'
     },
     {
       year: 2010,
@@ -1217,7 +1217,7 @@ export default {
       featureArtist: 'snoop dogg, tha dogg pound',
       source:
         'http://www.azlyrics.com/lyrics/brothalynchhung/anothakillin.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2010,
@@ -1226,7 +1226,7 @@ export default {
       featureArtist: 'g-macc',
       source:
         'http://www.azlyrics.com/lyrics/brothalynchhung/splitpersonality.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2010,
@@ -1235,7 +1235,7 @@ export default {
       featureArtist: 'tyler the creator',
       source:
         'http://www.azlyrics.com/lyrics/earlsweatshirt/thisniggaugly.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2010,
@@ -1244,7 +1244,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/holdsteady/thesweetpartofthecity.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2010,
@@ -1252,7 +1252,7 @@ export default {
       artist: 'the steam machine',
       featureArtist: '',
       source: 'http://www.shazam.com/track/63992877/home-to-sacramento',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2010,
@@ -1261,7 +1261,7 @@ export default {
       featureArtist: 'g-macc, bzo',
       source:
         'http://www.azlyrics.com/lyrics/brothalynchhung/murderoverhard.html',
-      tokens: 'sacramento king',
+      tokens: 'sacramento king'
     },
     {
       year: 2010,
@@ -1269,7 +1269,7 @@ export default {
       artist: 'yung automatik',
       featureArtist: '',
       source: 'http://genius.com/yung-automatik-go-hard-or-go-home-lyrics',
-      tokens: 'sacramento kings',
+      tokens: 'sacramento kings'
     },
     {
       year: 2010,
@@ -1277,7 +1277,7 @@ export default {
       artist: 'mally mall',
       featureArtist: 'ace d.',
       source: 'https://www.spotify.com',
-      tokens: 'sactown',
+      tokens: 'sactown'
     },
     {
       year: 2011,
@@ -1285,7 +1285,7 @@ export default {
       artist: 'soosh*e!',
       featureArtist: '',
       source: 'https://sooshe.bandcamp.com/track/fruity-loops-game',
-      tokens: 'downtown',
+      tokens: 'downtown'
     },
     {
       year: 2011,
@@ -1293,7 +1293,7 @@ export default {
       artist: 'roscoe dash',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/roscoedash/theimpossible.html',
-      tokens: 'king, sacramento',
+      tokens: 'king, sacramento'
     },
     {
       year: 2011,
@@ -1301,7 +1301,7 @@ export default {
       artist: 'tech n9ne',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/techn9ne/whodoicatch.html',
-      tokens: 'sac town',
+      tokens: 'sac town'
     },
     {
       year: 2011,
@@ -1309,7 +1309,7 @@ export default {
       artist: 'jay rock',
       featureArtist: 'rick ross, bj the chicago kid',
       source: 'http://www.azlyrics.com/lyrics/jayrock/finesthour.html',
-      tokens: 'sac town, king',
+      tokens: 'sac town, king'
     },
     {
       year: 2011,
@@ -1317,7 +1317,7 @@ export default {
       artist: 'roach gigz',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/roachgigz/makeusay.html',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 2011,
@@ -1326,7 +1326,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184374532549/al55f1d421a5f3907573aeacc2/t55f1d422a5f3907573aead62',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2011,
@@ -1334,7 +1334,7 @@ export default {
       artist: 'cake',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/cake/boundaway.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2011,
@@ -1342,7 +1342,7 @@ export default {
       artist: 'wale',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/wale/mothernatureslowjammin.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2011,
@@ -1351,7 +1351,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.letssingit.com/los-amos-de-nuevo-leon-lyrics-hyphy-tribal-b8ns8bl#axzz4cyho53jp',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2011,
@@ -1359,7 +1359,7 @@ export default {
       artist: 'heavenly',
       featureArtist: '',
       source: 'http://www.metrolyrics.com/sacramento-lyrics-heavenly.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2011,
@@ -1367,7 +1367,7 @@ export default {
       artist: 'wee sing',
       featureArtist: '',
       source: 'https://www.amazon.com/wee-sing-america/dp/b004xxtpkg',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2011,
@@ -1375,7 +1375,7 @@ export default {
       artist: 'soosh*e!',
       featureArtist: '',
       source: 'https://sooshe.bandcamp.com/track/made-you-look',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2012,
@@ -1383,7 +1383,7 @@ export default {
       artist: 'intervisionstudios',
       featureArtist: '',
       source: 'https://www.youtube.com',
-      tokens: 'freeport, sac city, scc',
+      tokens: 'freeport, sac city, scc'
     },
     {
       year: 2012,
@@ -1391,7 +1391,7 @@ export default {
       artist: 'soosh*e!',
       featureArtist: '',
       source: 'https://sooshe.bandcamp.com/track/round-two-prod-by-ru',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 2012,
@@ -1399,7 +1399,7 @@ export default {
       artist: 'chamillionaire',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/chamillionaire/letsgetthat.html',
-      tokens: 'sac-town, demarcus, king',
+      tokens: 'sac-town, demarcus, king'
     },
     {
       year: 2012,
@@ -1407,7 +1407,7 @@ export default {
       artist: 'e-40, too $hort',
       featureArtist: 'travis porter, young chu',
       source: 'http://www.azlyrics.com/lyrics/e40/dumptruck.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2012,
@@ -1415,7 +1415,7 @@ export default {
       artist: "lil' b",
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/lilb/dontforgetaboutme.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2012,
@@ -1424,7 +1424,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.capradio.org/music/eclectic/2015/02/18/songs-of-sacramento-tunes-inspired-by-our-city/',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2012,
@@ -1432,7 +1432,7 @@ export default {
       artist: 'khaan & remerc',
       featureArtist: '',
       source: 'https://www.amazon.com/sacramento-to-boston/dp/b009lawy9a',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2012,
@@ -1440,7 +1440,7 @@ export default {
       artist: 'soosh*e!',
       featureArtist: '',
       source: 'https://sooshe.bandcamp.com/track/left-siders',
-      tokens: 'sacramento city, sac city, tree city, 916, 91-sickness',
+      tokens: 'sacramento city, sac city, tree city, 916, 91-sickness'
     },
     {
       year: 2012,
@@ -1448,7 +1448,7 @@ export default {
       artist: 'gucci mane',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/guccimane/spreadtheword.html',
-      tokens: 'sacramento, king',
+      tokens: 'sacramento, king'
     },
     {
       year: 2012,
@@ -1456,7 +1456,7 @@ export default {
       artist: 'death grips',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/deathgrips/comeupandgetme.html',
-      tokens: 'sacto',
+      tokens: 'sacto'
     },
     {
       year: 2012,
@@ -1465,7 +1465,7 @@ export default {
       featureArtist: 'j.good',
       source:
         'https://sooshe.bandcamp.com/track/hometown-hero-feat-j-good-prod-by-ru',
-      tokens: 'sactown, sac',
+      tokens: 'sactown, sac'
     },
     {
       year: 2013,
@@ -1473,7 +1473,7 @@ export default {
       artist: 'bueno',
       featureArtist: '',
       source: 'http://www.shazam.com/track/96930396/5am-in-sacramento',
-      tokens: 'city of trees',
+      tokens: 'city of trees'
     },
     {
       year: 2013,
@@ -1481,7 +1481,7 @@ export default {
       artist: 'bueno',
       featureArtist: '',
       source: 'http://www.shazam.com/track/96930396/5am-in-sacramento',
-      tokens: 'meadowview',
+      tokens: 'meadowview'
     },
     {
       year: 2013,
@@ -1489,7 +1489,7 @@ export default {
       artist: 'lil dicky',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/lildicky/bars.html',
-      tokens: 'sac kings',
+      tokens: 'sac kings'
     },
     {
       year: 2013,
@@ -1497,7 +1497,7 @@ export default {
       artist: 'problem',
       featureArtist: '',
       source: 'http://genius.com/problem-say-that-then-lyrics',
-      tokens: 'sac town',
+      tokens: 'sac town'
     },
     {
       year: 2013,
@@ -1505,7 +1505,7 @@ export default {
       artist: 'cimorelli',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/cimorelli/madeinamerica.html',
-      tokens: 'sac town',
+      tokens: 'sac town'
     },
     {
       year: 2013,
@@ -1513,7 +1513,7 @@ export default {
       artist: 'cimorelli',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/cimorelli/thewaywelive.html',
-      tokens: 'sac town',
+      tokens: 'sac town'
     },
     {
       year: 2013,
@@ -1522,7 +1522,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/dancegavindance/acceptancespeech.html',
-      tokens: 'sac town',
+      tokens: 'sac town'
     },
     {
       year: 2013,
@@ -1530,7 +1530,7 @@ export default {
       artist: 'brotha lynch hung, wrekonize, bernz',
       featureArtist: '',
       source: 'http://genius.com/brotha-lynch-hung-eating-you-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2013,
@@ -1539,7 +1539,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184374365211/al55f177dea5f39075738f424a/t55f177e1a5f39075738f42ce',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2013,
@@ -1548,7 +1548,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/brothalynchhung/canihaveanapkin.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2013,
@@ -1556,7 +1556,7 @@ export default {
       artist: 'brotha lynch hung',
       featureArtist: 'tech n9ne, hopsin',
       source: 'http://www.azlyrics.com/lyrics/brothalynchhung/stabbed.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2013,
@@ -1564,7 +1564,7 @@ export default {
       artist: 'j rand',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/jrand/santagimmie.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2013,
@@ -1572,7 +1572,7 @@ export default {
       artist: 'gangsta dre',
       featureArtist: '',
       source: 'http://www.shazam.com/track/57131461/sacramento-summertime',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2013,
@@ -1580,7 +1580,7 @@ export default {
       artist: 'dolly shine',
       featureArtist: '',
       source: 'http://www.shazam.com/track/90945289/sacramento-blues',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2013,
@@ -1588,7 +1588,7 @@ export default {
       artist: 'bueno',
       featureArtist: '',
       source: 'http://www.shazam.com/track/96930396/5am-in-sacramento',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2013,
@@ -1596,7 +1596,7 @@ export default {
       artist: 'doug allen',
       featureArtist: '',
       source: 'http://www.songlyrics.com/doug-allen/doug-allen/',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2013,
@@ -1605,7 +1605,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.azlyrics.com/lyrics/joellortiz/outtacontrolkendricklamarresponse.html',
-      tokens: 'sacramento, king',
+      tokens: 'sacramento, king'
     },
     {
       year: 2013,
@@ -1613,7 +1613,7 @@ export default {
       artist: 'young dolph',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/youngdolph/nosleep.html',
-      tokens: 'sacramento, king',
+      tokens: 'sacramento, king'
     },
     {
       year: 2014,
@@ -1621,7 +1621,7 @@ export default {
       artist: 'luke tailor',
       featureArtist: 'soosh*e!',
       source: 'https://soundcloud.com/luke-tailor/perfection-feat-soosh-e',
-      tokens: 'city of trees',
+      tokens: 'city of trees'
     },
     {
       year: 2014,
@@ -1630,7 +1630,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184374110880/al55f0b87ea5f39075734fa49b/t55f0b880a5f39075734fa57a',
-      tokens: 'elk grove',
+      tokens: 'elk grove'
     },
     {
       year: 2014,
@@ -1638,7 +1638,7 @@ export default {
       artist: 'goodtime boys',
       featureArtist: '',
       source: 'http://www.songlyrics.com/goodtime-boys/folsom-lyrics/',
-      tokens: 'folsom',
+      tokens: 'folsom'
     },
     {
       year: 2014,
@@ -1646,7 +1646,7 @@ export default {
       artist: 'wiz khalifa',
       featureArtist: 'berner',
       source: 'http://www.azlyrics.com/lyrics/wizkhalifa/updown.html',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 2014,
@@ -1654,7 +1654,7 @@ export default {
       artist: 'luke tailor',
       featureArtist: '',
       source: 'https://soundcloud.com/luke-tailor/the-city',
-      tokens: 'sac, sacramento, kings',
+      tokens: 'sac, sacramento, kings'
     },
     {
       year: 2014,
@@ -1663,7 +1663,7 @@ export default {
       featureArtist: '',
       source:
         'http://tidido.com/a35184374110880/al55f0b87ea5f39075734fa49b/t55f0b880a5f39075734fa57a',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2014,
@@ -1671,7 +1671,7 @@ export default {
       artist: 'cherry ghost',
       featureArtist: '',
       source: 'http://www.metrolyrics.com/sacramento-lyrics-cherry-ghost.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2014,
@@ -1680,7 +1680,7 @@ export default {
       featureArtist: '',
       source:
         'https://play.google.com/music/preview/tgiw2iyerqudku2e3v5pgxr27xu?preview=ae9vgkorad2iiibppltktjuderb8di5hyzqoxqekzrkq8ugcku-qsbqzw3-bls4xfcd1t2hpnatciojnr-di18sykhiv-gk2r2skgqakjgaw8d9gqx0fbd8%3d',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2014,
@@ -1689,7 +1689,7 @@ export default {
       featureArtist: '',
       source:
         'http://www.capradio.org/music/eclectic/2015/02/18/songs-of-sacramento-tunes-inspired-by-our-city/',
-      tokens: 'sacto',
+      tokens: 'sacto'
     },
     {
       year: 2015,
@@ -1697,7 +1697,7 @@ export default {
       artist: 'pastor troy',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/pastortroy/downtoride.html',
-      tokens: '916, sack town',
+      tokens: '916, sack town'
     },
     {
       year: 2015,
@@ -1705,7 +1705,7 @@ export default {
       artist: 'drake',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/drake/6man.html',
-      tokens: 'demarcus cousins',
+      tokens: 'demarcus cousins'
     },
     {
       year: 2015,
@@ -1713,7 +1713,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-florin-high-flirt-lyrics',
-      tokens: 'florin high',
+      tokens: 'florin high'
     },
     {
       year: 2015,
@@ -1721,7 +1721,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-what-we-started-lyrics',
-      tokens: 'florin, jfk high, elk grove',
+      tokens: 'florin, jfk high, elk grove'
     },
     {
       year: 2015,
@@ -1729,7 +1729,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-greenhaven-blues-lyrics',
-      tokens: 'greenhaven',
+      tokens: 'greenhaven'
     },
     {
       year: 2015,
@@ -1738,7 +1738,7 @@ export default {
       featureArtist: '',
       source:
         'http://genius.com/chuuwee-save-the-last-dance-for-someone-who-cares-lyrics',
-      tokens: 'kennedy, florin, florin high, stockton',
+      tokens: 'kennedy, florin, florin high, stockton'
     },
     {
       year: 2015,
@@ -1746,7 +1746,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-lonely-in-land-park-lyrics',
-      tokens: 'land park',
+      tokens: 'land park'
     },
     {
       year: 2015,
@@ -1754,7 +1754,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-meanwhile-off-mack-lyrics',
-      tokens: 'mack, south side sac, sac',
+      tokens: 'mack, south side sac, sac'
     },
     {
       year: 2015,
@@ -1762,7 +1762,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-powder-inn-lyrics',
-      tokens: 'mctavish circle',
+      tokens: 'mctavish circle'
     },
     {
       year: 2015,
@@ -1770,7 +1770,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-regional-transit-lyrics',
-      tokens: 'meadowview, florin',
+      tokens: 'meadowview, florin'
     },
     {
       year: 2015,
@@ -1778,7 +1778,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-meadowview-morning-lyrics',
-      tokens: 'meadowview, south sac, sac, tamoshanter, sacramento',
+      tokens: 'meadowview, south sac, sac, tamoshanter, sacramento'
     },
     {
       year: 2015,
@@ -1786,7 +1786,7 @@ export default {
       artist: 'luke tailor',
       featureArtist: '',
       source: 'https://soundcloud.com/luke-tailor/be-free-after-j-cole',
-      tokens: 'oak park',
+      tokens: 'oak park'
     },
     {
       year: 2015,
@@ -1794,7 +1794,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-dueyuu-lyrics',
-      tokens: 'power inn, south east sac, rutter park',
+      tokens: 'power inn, south east sac, rutter park'
     },
     {
       year: 2015,
@@ -1802,7 +1802,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-riverside-ransom-lyrics',
-      tokens: 'riverside',
+      tokens: 'riverside'
     },
     {
       year: 2015,
@@ -1811,7 +1811,7 @@ export default {
       featureArtist: 'san quinn, messy marv',
       source:
         'http://tidido.com/a35184374768391/al56012b43e7c622686a819564/t56012b44e7c622686a819652',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 2015,
@@ -1819,7 +1819,7 @@ export default {
       artist: 'berner',
       featureArtist: 'migos',
       source: 'http://www.azlyrics.com/lyrics/berner/passmethegreen.html',
-      tokens: 'sac town',
+      tokens: 'sac town'
     },
     {
       year: 2015,
@@ -1827,7 +1827,7 @@ export default {
       artist: 'hodgy beats',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/hodgybeats/workthatshit.html',
-      tokens: 'sac town',
+      tokens: 'sac town'
     },
     {
       year: 2015,
@@ -1835,7 +1835,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-florin-light-rail-lyrics',
-      tokens: 'sac-town, greenhaven, florin',
+      tokens: 'sac-town, greenhaven, florin'
     },
     {
       year: 2015,
@@ -1844,7 +1844,7 @@ export default {
       featureArtist: '',
       source: 'http://genius.com/chuuwee-lime-lights-lyrics',
       tokens:
-        'sac-town, tree city, franklin, sacramento, stockton boulevar, mack',
+        'sac-town, tree city, franklin, sacramento, stockton boulevar, mack'
     },
     {
       year: 2015,
@@ -1852,7 +1852,7 @@ export default {
       artist: 'be brave bold robot',
       featureArtist: '',
       source: 'http://bebraveboldrobot.bandcamp.com/track/sacramento#lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2015,
@@ -1860,7 +1860,7 @@ export default {
       artist: 'colenel loud',
       featureArtist: '',
       source: 'http://genius.com/colonel-loud-california-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2015,
@@ -1868,7 +1868,7 @@ export default {
       artist: 'berner',
       featureArtist: 'ampichino',
       source: 'http://www.azlyrics.com/lyrics/berner/breathedreaming.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2015,
@@ -1876,7 +1876,7 @@ export default {
       artist: 'big sean',
       featureArtist: 'e-40',
       source: 'http://www.azlyrics.com/lyrics/bigsean/idontfuckwithyou.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2015,
@@ -1884,7 +1884,7 @@ export default {
       artist: 'nofx',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/nofx/safewords.html',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2015,
@@ -1892,7 +1892,7 @@ export default {
       artist: 'luke tailor',
       featureArtist: '',
       source: 'https://soundcloud.com/luke-tailor/ghetto-gospel',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2015,
@@ -1900,7 +1900,7 @@ export default {
       artist: 'doofy doo',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2015,
@@ -1908,7 +1908,7 @@ export default {
       artist: 'soosh*e!',
       featureArtist: '',
       source: 'https://soundcloud.com/sooshe/ctil',
-      tokens: 'sacramento kings',
+      tokens: 'sacramento kings'
     },
     {
       year: 2015,
@@ -1916,7 +1916,7 @@ export default {
       artist: 'ayiddy',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento,',
+      tokens: 'sacramento,'
     },
     {
       year: 2015,
@@ -1924,7 +1924,7 @@ export default {
       artist: 'rich ko',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento, kings, h street',
+      tokens: 'sacramento, kings, h street'
     },
     {
       year: 2015,
@@ -1932,7 +1932,7 @@ export default {
       artist: 'sefa',
       featureArtist: '',
       source: 'https://soundcloud.com/sefam1/sacramento-waddup-sefa',
-      tokens: 'sacramento, sac',
+      tokens: 'sacramento, sac'
     },
     {
       year: 2015,
@@ -1940,7 +1940,7 @@ export default {
       artist: 'yung sam',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento, sacramento kings',
+      tokens: 'sacramento, sacramento kings'
     },
     {
       year: 2015,
@@ -1948,7 +1948,7 @@ export default {
       artist: 'chuuwee',
       featureArtist: '',
       source: 'http://genius.com/chuuwee-south-sac-get-the-money-lyrics',
-      tokens: 'south sac, meadowview, rutter park, gerber',
+      tokens: 'south sac, meadowview, rutter park, gerber'
     },
     {
       year: 2015,
@@ -1956,7 +1956,7 @@ export default {
       artist: 'young dizzy',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 2015,
@@ -1964,7 +1964,7 @@ export default {
       artist: 'young dizzy',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sactown',
+      tokens: 'sactown'
     },
     {
       year: 2015,
@@ -1972,7 +1972,7 @@ export default {
       artist: 'young dizzy',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sac, sactown',
+      tokens: 'sac, sactown'
     },
     {
       year: 2016,
@@ -1980,7 +1980,7 @@ export default {
       artist: 'vue peter',
       featureArtist: '',
       source: 'https://www.youtube.com',
-      tokens: 916,
+      tokens: 916
     },
     {
       year: 2016,
@@ -1988,7 +1988,7 @@ export default {
       artist: 'vue peter, tbone, xl',
       featureArtist: '',
       source: 'https://www.youtube.com',
-      tokens: '65th, 916, sacramento,',
+      tokens: '65th, 916, sacramento,'
     },
     {
       year: 2016,
@@ -1996,7 +1996,7 @@ export default {
       artist: 'coolaycoo',
       featureArtist: 'vue peter',
       source: 'https://www.youtube.com',
-      tokens: '916, sac town, city of trees',
+      tokens: '916, sac town, city of trees'
     },
     {
       year: 2016,
@@ -2004,7 +2004,7 @@ export default {
       artist: 'diverzity',
       featureArtist: 'vue peter, coolaycoo',
       source: 'https://www.youtube.com',
-      tokens: '916, sac town, city of trees',
+      tokens: '916, sac town, city of trees'
     },
     {
       year: 2016,
@@ -2013,7 +2013,7 @@ export default {
       featureArtist: '',
       source:
         'https://soundcloud.com/therealgrouch/zge-i-love-california-like-you',
-      tokens: 'sac',
+      tokens: 'sac'
     },
     {
       year: 2016,
@@ -2022,7 +2022,7 @@ export default {
         'vue peter, bxo, tbone, coolaycoo, tommieboi, toxic t, poetic tone, diverzity, yungclaymor, big p, ma8trixz, mo thugg, ltee',
       featureArtist: '',
       source: 'https://www.youtube.com',
-      tokens: 'sac town, 916',
+      tokens: 'sac town, 916'
     },
     {
       year: 2016,
@@ -2030,7 +2030,7 @@ export default {
       artist: 'the lonely island',
       featureArtist: '',
       source: 'http://www.azlyrics.com/lyrics/lonelyisland/rockrollskate.html',
-      tokens: 'sac-town',
+      tokens: 'sac-town'
     },
     {
       year: 2016,
@@ -2038,7 +2038,7 @@ export default {
       artist: 'vic mensa',
       featureArtist: '',
       source: 'http://genius.com/vic-mensa-new-bae-lyrics',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2016,
@@ -2046,7 +2046,7 @@ export default {
       artist: 'diverzity',
       featureArtist: '',
       source: 'https://www.youtube.com',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2016,
@@ -2054,7 +2054,7 @@ export default {
       artist: 'black strike',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento',
+      tokens: 'sacramento'
     },
     {
       year: 2016,
@@ -2062,7 +2062,7 @@ export default {
       artist: '8 good fingers',
       featureArtist: '',
       source: 'https://www.spotify.com',
-      tokens: 'sacramento, capitol',
+      tokens: 'sacramento, capitol'
     },
     {
       year: 2016,
@@ -2071,7 +2071,7 @@ export default {
       featureArtist: 'fshagen',
       source:
         'https://soundcloud.com/sooshe/hold-it-down-f-frshagen-prod-ru-areyou',
-      tokens: 'sactown, sac, kings, the mid',
-    },
-  ],
+      tokens: 'sactown, sac, kings, the mid'
+    }
+  ]
 };

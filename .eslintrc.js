@@ -1,22 +1,22 @@
 module.exports = {
   globals: {
-    ga: true,
+    ga: true
   },
   env: {
     browser: true,
     es6: true,
     jest: true,
-    node: true,
+    node: true
   },
   extends: [
     './config/eslint-react.js',
     './config/eslint-import.js',
-    'prettier',
+    'prettier'
   ],
   parser: 'babel-eslint',
   settings: {
     react: {
-      version: '16.7',
-    },
-  },
+      version: '16.7'
+    }
+  }
 };
