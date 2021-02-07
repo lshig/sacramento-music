@@ -7,7 +7,7 @@
   "repository": "https://github.com/lshig/sacramento-music.git",
   "license": "MIT",
   "engines": {
-    "node": ">=8"
+    "node": ">=12"
   },
   "scripts": {
     "build:dev": "webpack",
