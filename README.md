@@ -1,19 +1,13 @@
-# Sacramento, CA Meets Music and Code
+# sacramento-music
 
-Check out the [Live Demo](https://lshig.github.io/sacramento-music)!
+[Sacramento music 1958-2016 :house_with_garden:](https://lizshigetoshi.com/sacramento-music/). This project experiments with visualizing a breakdown of music that references Sacramento, CA USA.
 
 ## Basics
 
 - Install [Node.js and npm](https://nodejs.org/en/)
-- Install [SASS](http://sass-lang.com/) configured to an editor like [Atom](https://atom.io/)
+- Install [SASS](http://sass-lang.com/)
 - Clone or fork the repository `https://github.com/lshig/sacramento-music.git`
-- In the terminal: `cd sacramento-music; npm start`
-- Build `npm run build:dev` for debugging
-- Build `npm run build:prod` for production-ish
-- Option 1: View by opening `index.html` in a web browser
-- Option 2: `npm run server` and open `http://localhost:8080/`
-
-Thanks for stopping by to see one of the things I like to experiment on!
-
-Cheers,<br>
-Liz Shigetoshi
+- Build:
+  - Option 1: `npm run build:dev` for debugging
+  - Option 2: `npm run build:prod` for production-ish
+- Run `npm start` and open `http://localhost:9000/`
