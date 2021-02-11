@@ -121,7 +121,7 @@ export default [
   },
   {
     container: 'time-vs-frequency',
-    title: 'Frequency of Shout Out Songs Over Time',
+    title: 'Frequency of Songs Over Time',
     description:
       'This data required that I collect the year of each song and run a count on how many songs correspond to the year released. None of the lyric sources made it easy to date when these songs were first released. Accuracy is based on what I could find on Google, a lot of the years found were manual look-ups. Also note, I collected data up until mid-2016, the data for that year may be incomplete.',
     options: {
@@ -250,7 +250,7 @@ export default [
   },
   {
     container: 'category-breakdown',
-    title: 'Shout Out Word Category Breakdown',
+    title: 'Word Category Breakdown',
     description:
       'This data required that I track every unique Sacramento, CA references per song, sort each reference into a category, and count references per category. Note: a song may name drop multiple references like Sacramento, SacTown, 916, and Kings.',
     options: {
@@ -352,7 +352,7 @@ export default [
   },
   {
     container: 'word-vs-frequency',
-    title: 'Shout Out Word Frequency',
+    title: 'Word Frequency',
     description:
       'This data is based on unique references per song, not the number of occurances per song. For instance, if a song says Sacramento 8 times and SacTown 5 times, each reference was only counted once. Homophone references were combined; for example, SackTown, Sac-Town, and Sac Town were counted towards SacTown. This chart shows references ranked from most used to least and is limited to references that are mentioned in more than 1 song; it is also color categorized by reference type.',
     options: {
@@ -575,7 +575,7 @@ export default [
   },
   {
     container: 'artist-vs-frequency',
-    title: 'Frequency of Shout Outs by an Artist',
+    title: 'Frequency of Shout Outs by Artist',
     description:
       'This data required that I track the main artists and the featured artists, and count their appearance on 251 songs. This means that all artists are treated equally even if it may not be their song, or they were not the ones to mention the shout out. This chart shows artists who have collaborated on more than 1 song. Important to note that most of the songs are from rappers who have relations to Sacramento, CA.',
     options: {

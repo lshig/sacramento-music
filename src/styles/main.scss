@@ -1,4 +1,5 @@
 @charset 'utf-8';
+
 @import url('https://use.fontawesome.com/7d90fe5352.css');
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,400');
@@ -7,8 +8,8 @@
 Dimensions
 *******************/
 $IMAGE_MAX_WIDTH: 800px;
-$HEADING_MAX_WIDTH: 600px;
-$TEXT_MAX_WIDTH: 600px;
+$HEADING_MAX_WIDTH: 700px;
+$TEXT_MAX_WIDTH: 650px;
 $MARGIN_SPACE: 100px;
 $SECTION_MAX_WIDTH: 1000px !important;
 
@@ -25,21 +26,21 @@ $GRAPH_MINOR_LINE_COLOR: #505053;
 $GRAPH_TOOLTIP_BACKGROUND_COLOR: rgba(0, 0, 0, 0.85);
 $GRAPH_TOOLTIP_TEXT_COLOR: #f0f0f0;
 $GRAPH_DATA_LABEL_COLOR: #b0b0b3;
-$GRAPH_DATA_MARKER_COLOR: #333333;
+$GRAPH_DATA_MARKER_COLOR: #333;
 $GRAPH_LEGEND_ITEM_COLOR: #e0e0e3;
-$GRAPH_LEGEND_ITEM_HOVER_COLOR: #ffffff;
+$GRAPH_LEGEND_ITEM_HOVER_COLOR: #fff;
 $GRAPH_LEGEND_ITEM_HIDDEN_COLOR: #e0e0e3;
 $TABLE_BORDER_COLOR: #606063;
 $TABLE_BACKGROUND_COLOR: #3e3e40;
 // Google's Material Design Theme
 // https://material.google.com/style/color.html#color-color-palette;
 $CLEAR_COLOR: transparent;
-$BLACK: #000000;
-$WHITE: #ffffff;
+$BLACK: #000;
+$WHITE: #fff;
 $PURPLE_DEEP_900: #5a2b81;
 $PURPLE_DEEP_A100: #b388ff;
 $PURPLE_DEEP_100: #d1c4e9;
-$GREY_200: #eeeeee;
+$GREY_200: #eee;
 $GREY_400: #bdbdbd;
 $GREY_600: #757575;
 $GREY_800: #424242;
@@ -67,8 +68,8 @@ $LOGO_END_COLOR: #49a09d;
 /*******************
 Fonts
 *******************/
-$HEADING_FONT_FAMILY: 'Yanone Kaffeesatz', Arial, sans-serif;
-$BODY_FONT_FAMILY: 'Roboto', Arial, sans-serif;
+$HEADING_FONT_FAMILY: 'Yanone Kaffeesatz', arial, sans-serif;
+$BODY_FONT_FAMILY: 'Roboto', arial, sans-serif;
 
 /*******************
 Buttons

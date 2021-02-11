@@ -1,9 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Charts basic renders 1`] = `
-<section
-  className="data-vis"
->
+<section>
   <div
     className="chart"
     id="source-breakdown"
@@ -178,7 +176,7 @@ exports[`Charts basic renders 1`] = `
       <h1
         className="chart-title-header"
       >
-        Frequency of Shout Out Songs Over Time
+        Frequency of Songs Over Time
       </h1>
     </div>
     <Memo(ForwardRef)
@@ -533,7 +531,7 @@ exports[`Charts basic renders 1`] = `
       <h1
         className="chart-title-header"
       >
-        Shout Out Word Category Breakdown
+        Word Category Breakdown
       </h1>
     </div>
     <Memo(ForwardRef)
@@ -680,7 +678,7 @@ exports[`Charts basic renders 1`] = `
       <h1
         className="chart-title-header"
       >
-        Shout Out Word Frequency
+        Word Frequency
       </h1>
     </div>
     <Memo(ForwardRef)
@@ -949,7 +947,7 @@ exports[`Charts basic renders 1`] = `
       <h1
         className="chart-title-header"
       >
-        Frequency of Shout Outs by an Artist
+        Frequency of Shout Outs by Artist
       </h1>
     </div>
     <Memo(ForwardRef)

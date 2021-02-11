@@ -8,7 +8,7 @@ Highcharts.setOptions(theme);
 
 export default function Chart() {
   return (
-    <section className="data-vis">
+    <section>
       {options.map((item, key) => {
         return (
           <div key={key} className="chart" id={item.container}>

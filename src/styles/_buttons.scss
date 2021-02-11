@@ -1,5 +1,5 @@
 /*******************
-Button specifics
+Buttons
 *******************/
 
 .code-info {
@@ -8,6 +8,7 @@ Button specifics
   width: 90%;
 
   .button__large {
+    /* stylelint-disable declaration-colon-newline-after */
     font-size: 18px;
     text-decoration: none;
     display: inline-block;
@@ -22,7 +23,6 @@ Button specifics
     cursor: pointer;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16),
       0 2px 10px 0 rgba(0, 0, 0, 0.12);
-    letter-spacing: 0.5px;
 
     &:hover {
       color: $GREY_800;
@@ -41,11 +41,6 @@ Button specifics
     color: $BUTTON_RAISED_BACKGROUND_COLOR;
     font-weight: 400;
     background: $LOGO_START_COLOR;
-    background: -webkit-linear-gradient(
-      to left,
-      $LOGO_START_COLOR,
-      $LOGO_END_COLOR
-    );
     background: linear-gradient(to left, $LOGO_START_COLOR, $LOGO_END_COLOR);
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.3), 0 2px 10px 0 rgba(0, 0, 0, 0.4);
 

@@ -13,7 +13,7 @@ exports[`Table basic renders 1`] = `
       <h1
         className="table-title-heading"
       >
-        251 Shout Out Songs
+        251 Songs
       </h1>
     </div>
     <table>

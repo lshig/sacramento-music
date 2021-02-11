@@ -22,7 +22,7 @@ export default {
   chart: {
     backgroundColor: null,
     style: {
-      fontFamily: '"Roboto", Arial, sans-serif',
+      fontFamily: '"Roboto", arial, sans-serif',
       letterSpacing: '1px'
     },
     plotBorderColor: '#606063'

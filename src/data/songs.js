@@ -1,5 +1,5 @@
 export default {
-  title: '251 Shout Out Songs',
+  title: '251 Songs',
   data: [
     {
       year: 1957,

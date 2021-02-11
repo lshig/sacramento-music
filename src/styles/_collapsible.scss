@@ -20,11 +20,13 @@ ul li {
 
 .project-info {
   width: 90%;
+  max-width: $TEXT_MAX_WIDTH;
   margin: 3vw auto 10vw;
 }
 
 .chart-info-collapsible-wrapper {
   width: 100%;
+  max-width: $TEXT_MAX_WIDTH;
   margin: 2vw auto;
 }
 

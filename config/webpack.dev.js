@@ -24,10 +24,7 @@ module.exports = merge(base, {
             loader: 'css-loader',
             options: {
               sourceMap: true,
-              importLoaders: 1,
-              modules: {
-                localIdentName: '[sha1:hash:hex:4]'
-              }
+              importLoaders: 1
             }
           },
           { loader: 'postcss-loader', options: { sourceMap: true } },
