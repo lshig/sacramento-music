@@ -3,13 +3,9 @@ import React from 'react';
 import toJson from 'enzyme-to-json';
 import App from '../src/components/App';
 
-jest.mock('react-highcharts', () => {
-  return {
-    Highcharts: {
-      setOptions: jest.fn()
-    }
-  };
-});
+jest.mock('highcharts', () => ({
+  setOptions: jest.fn()
+}));
 
 describe('App', () => {
   describe('basic', () => {

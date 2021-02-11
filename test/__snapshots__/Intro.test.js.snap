@@ -1,9 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Intro basic renders 1`] = `
-<section
-  className="intro"
->
+<section>
   <Button />
   <Accordian />
 </section>

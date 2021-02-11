@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SEO basic renders 1`] = `
+<HelmetWrapper
+  defer={true}
+  encodeSpecialCharacters={true}
+  title="sacramento-music"
+>
+  <meta
+    content="Liz Shigetoshi"
+    name="author"
+  />
+  <meta
+    content="Sacramento music 1958-2016"
+    name="description"
+  />
+  <meta
+    content="react,babel,webpack"
+    name="keywords"
+  />
+  <meta
+    content="https://lizshigetoshi.com/sacramento-music"
+    property="og:url"
+  />
+  <meta
+    content="sacramento-music"
+    property="og:title"
+  />
+  <meta
+    content="Sacramento music 1958-2016"
+    property="og:description"
+  />
+  <meta
+    content="summary_large_image"
+    name="twitter:card"
+  />
+  <meta
+    content="@LizShigetoshi"
+    name="twitter:creator"
+  />
+  <meta
+    content="sacramento-music"
+    name="twitter:title"
+  />
+  <meta
+    content="Sacramento music 1958-2016"
+    name="twitter:description"
+  />
+</HelmetWrapper>
+`;

@@ -18,8 +18,13 @@ exports[`Charts basic renders 1`] = `
         Lyric Sources Breakdown
       </h1>
     </div>
-    <[object Object]
-      config={
+    <Memo(ForwardRef)
+      highcharts={
+        Object {
+          "setOptions": [MockFunction],
+        }
+      }
+      options={
         Object {
           "chart": Object {
             "height": "450",
@@ -176,8 +181,13 @@ exports[`Charts basic renders 1`] = `
         Frequency of Shout Out Songs Over Time
       </h1>
     </div>
-    <[object Object]
-      config={
+    <Memo(ForwardRef)
+      highcharts={
+        Object {
+          "setOptions": [MockFunction],
+        }
+      }
+      options={
         Object {
           "chart": Object {
             "type": "spline",
@@ -526,8 +536,13 @@ exports[`Charts basic renders 1`] = `
         Shout Out Word Category Breakdown
       </h1>
     </div>
-    <[object Object]
-      config={
+    <Memo(ForwardRef)
+      highcharts={
+        Object {
+          "setOptions": [MockFunction],
+        }
+      }
+      options={
         Object {
           "chart": Object {
             "height": "410",
@@ -668,8 +683,13 @@ exports[`Charts basic renders 1`] = `
         Shout Out Word Frequency
       </h1>
     </div>
-    <[object Object]
-      config={
+    <Memo(ForwardRef)
+      highcharts={
+        Object {
+          "setOptions": [MockFunction],
+        }
+      }
+      options={
         Object {
           "chart": Object {
             "height": "700",
@@ -932,8 +952,13 @@ exports[`Charts basic renders 1`] = `
         Frequency of Shout Outs by an Artist
       </h1>
     </div>
-    <[object Object]
-      config={
+    <Memo(ForwardRef)
+      highcharts={
+        Object {
+          "setOptions": [MockFunction],
+        }
+      }
+      options={
         Object {
           "chart": Object {
             "height": "800",

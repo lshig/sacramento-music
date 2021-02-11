@@ -4,7 +4,7 @@ import Button from './Button';
 
 export default function Intro() {
   return (
-    <section className="intro">
+    <section>
       <Button />
       <Accordion />
     </section>
